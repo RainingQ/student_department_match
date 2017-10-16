@@ -1,0 +1,7 @@
+﻿  distributeSystem.cpp
+  distribute.cpp
+e:\0_college\软工实践\第六次作业\代码\student_department_match\student_department_match\distribute.cpp(26): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\0_college\软工实践\第六次作业\代码\student_department_match\student_department_match\distribute.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  student_department_match.vcxproj -> E:\0_College\软工实践\第六次作业\代码\student_department_match\Debug\student_department_match.exe
+  student_department_match.vcxproj -> E:\0_College\软工实践\第六次作业\代码\student_department_match\Debug\student_department_match.pdb (Partial PDB)

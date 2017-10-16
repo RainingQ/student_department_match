@@ -1,0 +1,6192 @@
+{
+    "department": [
+        {
+            "chosen_num": 0,
+            "department_member_limit": 13,
+            "department_name": "department_1001",
+            "department_no": 1001,
+            "department_schedule": [
+                "Saturday_pm",
+                "Tuesday_pm",
+                "Monday_am",
+                "Monday_pm"
+            ],
+            "department_score_limit": 2.60999989509583,
+            "department_tag": [
+                "movie",
+                "runing",
+                "jazz",
+                "pingpong"
+            ],
+            "schedule_count": 4,
+            "tag_count": 4
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 15,
+            "department_name": "department_1002",
+            "department_no": 1002,
+            "department_schedule": [
+                "Thursday_am",
+                "Thursday_pm",
+                "Saturday_am",
+                "Thursday_am",
+                "Sunday_am",
+                "Wednesday_am",
+                "Wednesday_am",
+                "Sunday_pm",
+                "Wednesday_pm"
+            ],
+            "department_score_limit": 2.24000000953674,
+            "department_tag": [
+                "drama",
+                "hiking",
+                "chatting",
+                "pingpong"
+            ],
+            "schedule_count": 9,
+            "tag_count": 4
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 12,
+            "department_name": "department_1003",
+            "department_no": 1003,
+            "department_schedule": [
+                "Wednesday_pm",
+                "Thursday_pm",
+                "Tuesday_am",
+                "Wednesday_am"
+            ],
+            "department_score_limit": 1.86000001430511,
+            "department_tag": [
+                "movie",
+                "swimming",
+                "chatting",
+                "basketball",
+                "studying",
+                "Japanese"
+            ],
+            "schedule_count": 4,
+            "tag_count": 6
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 12,
+            "department_name": "department_1004",
+            "department_no": 1004,
+            "department_schedule": [
+                "Friday_pm",
+                "Saturday_pm",
+                "Wednesday_pm",
+                "Monday_pm",
+                "Friday_pm",
+                "Thursday_pm",
+                "Tuesday_pm",
+                "Friday_am"
+            ],
+            "department_score_limit": 1.5900000333786,
+            "department_tag": [
+                "dancing",
+                "trditional_opera",
+                "reading",
+                "football",
+                "studying",
+                "German",
+                "Italian"
+            ],
+            "schedule_count": 8,
+            "tag_count": 7
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 2,
+            "department_name": "department_1005",
+            "department_no": 1005,
+            "department_schedule": [
+                "Thursday_am",
+                "Friday_am",
+                "Sunday_am"
+            ],
+            "department_score_limit": 1.08000004291534,
+            "department_tag": [
+                "movie",
+                "trditional_opera",
+                "chess",
+                "basketball",
+                "studying",
+                "Chinese",
+                "Russian",
+                "Arena-of-Valor"
+            ],
+            "schedule_count": 3,
+            "tag_count": 8
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 15,
+            "department_name": "department_1006",
+            "department_no": 1006,
+            "department_schedule": [
+                "Saturday_am",
+                "Sunday_pm"
+            ],
+            "department_score_limit": 2.76999998092651,
+            "department_tag": [
+                "sport",
+                "trditional_opera",
+                "hip-hop",
+                "basketball",
+                "debating",
+                "Kerean",
+                "Spanish",
+                "WOW"
+            ],
+            "schedule_count": 2,
+            "tag_count": 8
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 4,
+            "department_name": "department_1007",
+            "department_no": 1007,
+            "department_schedule": [
+                "Sunday_pm",
+                "Tuesday_am"
+            ],
+            "department_score_limit": 1.98000001907349,
+            "department_tag": [
+                "movie",
+                "hiking",
+                "reading",
+                "pingpong",
+                "language",
+                "Japanese"
+            ],
+            "schedule_count": 2,
+            "tag_count": 6
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 8,
+            "department_name": "department_1008",
+            "department_no": 1008,
+            "department_schedule": [
+                "Thursday_am",
+                "Monday_pm",
+                "Friday_am",
+                "Tuesday_pm"
+            ],
+            "department_score_limit": 2.78999996185303,
+            "department_tag": [
+                "dancing"
+            ],
+            "schedule_count": 4,
+            "tag_count": 1
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 14,
+            "department_name": "department_1009",
+            "department_no": 1009,
+            "department_schedule": [
+                "Friday_am",
+                "Monday_am",
+                "Wednesday_pm",
+                "Sunday_am",
+                "Saturday_pm",
+                "Thursday_pm",
+                "Monday_pm",
+                "Thursday_pm",
+                "Monday_am"
+            ],
+            "department_score_limit": 1.5900000333786,
+            "department_tag": [
+                "dancing"
+            ],
+            "schedule_count": 9,
+            "tag_count": 1
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 14,
+            "department_name": "department_1010",
+            "department_no": 1010,
+            "department_schedule": [
+                "Wednesday_am",
+                "Saturday_pm",
+                "Saturday_am",
+                "Friday_pm",
+                "Sunday_pm",
+                "Saturday_am",
+                "Thursday_pm",
+                "Friday_am",
+                "Saturday_am",
+                "Sunday_pm"
+            ],
+            "department_score_limit": 2.25,
+            "department_tag": [
+                "movie",
+                "traveling",
+                "reading"
+            ],
+            "schedule_count": 10,
+            "tag_count": 3
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 0,
+            "department_name": "department_1011",
+            "department_no": 1011,
+            "department_schedule": [
+                "Thursday_am",
+                "Tuesday_pm",
+                "Friday_pm",
+                "Wednesday_pm",
+                "Wednesday_am",
+                "Saturday_pm"
+            ],
+            "department_score_limit": 2.11999988555908,
+            "department_tag": [
+                "drama",
+                "swimming",
+                "chess",
+                "pingpong",
+                "studying",
+                "German",
+                "Russian",
+                "LOL"
+            ],
+            "schedule_count": 6,
+            "tag_count": 8
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 12,
+            "department_name": "department_1012",
+            "department_no": 1012,
+            "department_schedule": [
+                "Monday_am",
+                "Thursday_pm",
+                "Sunday_am",
+                "Thursday_am",
+                "Thursday_am",
+                "Sunday_am"
+            ],
+            "department_score_limit": 2.16000008583069,
+            "department_tag": [
+                "drama",
+                "runing"
+            ],
+            "schedule_count": 6,
+            "tag_count": 2
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 12,
+            "department_name": "department_1013",
+            "department_no": 1013,
+            "department_schedule": [
+                "Thursday_am",
+                "Sunday_am",
+                "Monday_am",
+                "Sunday_pm",
+                "Monday_am",
+                "Saturday_pm",
+                "Tuesday_pm"
+            ],
+            "department_score_limit": 1.72000002861023,
+            "department_tag": [
+                "drama",
+                "swimming",
+                "chatting"
+            ],
+            "schedule_count": 7,
+            "tag_count": 3
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 12,
+            "department_name": "department_1014",
+            "department_no": 1014,
+            "department_schedule": [
+                "Monday_pm",
+                "Friday_am",
+                "Thursday_am"
+            ],
+            "department_score_limit": 1.42999994754791,
+            "department_tag": [
+                "sport",
+                "trditional_opera",
+                "jazz"
+            ],
+            "schedule_count": 3,
+            "tag_count": 3
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 14,
+            "department_name": "department_1015",
+            "department_no": 1015,
+            "department_schedule": [
+                "Tuesday_am",
+                "Monday_am",
+                "Friday_pm",
+                "Friday_pm",
+                "Monday_pm"
+            ],
+            "department_score_limit": 2.29999995231628,
+            "department_tag": [
+                "movie",
+                "runing",
+                "chatting"
+            ],
+            "schedule_count": 5,
+            "tag_count": 3
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 1,
+            "department_name": "department_1016",
+            "department_no": 1016,
+            "department_schedule": [
+                "Wednesday_am",
+                "Monday_pm",
+                "Wednesday_am",
+                "Sunday_am"
+            ],
+            "department_score_limit": 1.13999998569489,
+            "department_tag": [
+                "sport",
+                "runing",
+                "hip-hop",
+                "bassball"
+            ],
+            "schedule_count": 4,
+            "tag_count": 4
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 2,
+            "department_name": "department_1017",
+            "department_no": 1017,
+            "department_schedule": [
+                "Monday_am"
+            ],
+            "department_score_limit": 1.58000004291534,
+            "department_tag": [
+                "dancing",
+                "swimming"
+            ],
+            "schedule_count": 1,
+            "tag_count": 2
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 14,
+            "department_name": "department_1018",
+            "department_no": 1018,
+            "department_schedule": [
+                "Friday_pm",
+                "Thursday_am",
+                "Thursday_pm",
+                "Sunday_pm",
+                "Friday_am",
+                "Friday_pm",
+                "Tuesday_am",
+                "Sunday_am"
+            ],
+            "department_score_limit": 2.32999992370605,
+            "department_tag": [
+                "dancing",
+                "hiking",
+                "chess",
+                "football",
+                "debating",
+                "English",
+                "Russian"
+            ],
+            "schedule_count": 8,
+            "tag_count": 7
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 13,
+            "department_name": "department_1019",
+            "department_no": 1019,
+            "department_schedule": [
+                "Wednesday_pm",
+                "Tuesday_am",
+                "Thursday_pm"
+            ],
+            "department_score_limit": 2.50999999046326,
+            "department_tag": [
+                "dancing"
+            ],
+            "schedule_count": 3,
+            "tag_count": 1
+        },
+        {
+            "chosen_num": 0,
+            "department_member_limit": 8,
+            "department_name": "department_1020",
+            "department_no": 1020,
+            "department_schedule": [
+                "Friday_pm",
+                "Tuesday_am",
+                "Friday_am",
+                "Monday_am",
+                "Friday_am",
+                "Sunday_pm",
+                "Tuesday_pm",
+                "Monday_pm",
+                "Tuesday_pm",
+                "Friday_am"
+            ],
+            "department_score_limit": 1.00999999046326,
+            "department_tag": [
+                "music",
+                "hiking"
+            ],
+            "schedule_count": 10,
+            "tag_count": 2
+        }
+    ],
+    "student": [
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10001",
+            "student_no": 10001,
+            "student_schedule": [
+                "Saturday_pm",
+                "Friday_pm",
+                "Sunday_am",
+                "Tuesday_pm",
+                "Monday_pm",
+                "Thursday_pm"
+            ],
+            "student_score": 4.92000007629395,
+            "student_tag": [
+                "music",
+                "swimming",
+                "reading",
+                "football",
+                "studying"
+            ],
+            "student_wish": [
+                1008,
+                1015,
+                1017
+            ],
+            "tag_count": 5,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10002",
+            "student_no": 10002,
+            "student_schedule": [
+                "Thursday_am"
+            ],
+            "student_score": 4.94999980926514,
+            "student_tag": [
+                "drama",
+                "trditional_opera",
+                "hip-hop",
+                "football",
+                "debating",
+                "Chinese",
+                "French",
+                "LOL"
+            ],
+            "student_wish": [
+                1007,
+                1010,
+                1019,
+                1015,
+                1016
+            ],
+            "tag_count": 8,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10003",
+            "student_no": 10003,
+            "student_schedule": [
+                "Wednesday_am",
+                "Sunday_am",
+                "Saturday_am"
+            ],
+            "student_score": 3.63000011444092,
+            "student_tag": [
+                "movie",
+                "hiking",
+                "chatting",
+                "football",
+                "studying",
+                "German"
+            ],
+            "student_wish": [
+                1011,
+                1010
+            ],
+            "tag_count": 6,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10004",
+            "student_no": 10004,
+            "student_schedule": [
+                "Tuesday_pm",
+                "Friday_am",
+                "Thursday_pm",
+                "Wednesday_pm",
+                "Monday_am",
+                "Tuesday_am",
+                "Sunday_am",
+                "Monday_pm",
+                "Sunday_pm"
+            ],
+            "student_score": 4.21999979019165,
+            "student_tag": [
+                "sport",
+                "runing",
+                "chess",
+                "pingpong",
+                "speech",
+                "English",
+                "Spanish",
+                "Hearthstone"
+            ],
+            "student_wish": [
+                1005,
+                1019
+            ],
+            "tag_count": 8,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10005",
+            "student_no": 10005,
+            "student_schedule": [
+                "Monday_am",
+                "Monday_pm"
+            ],
+            "student_score": 2.34999990463257,
+            "student_tag": [
+                "music",
+                "swimming",
+                "reading",
+                "pingpong",
+                "discuss",
+                "English"
+            ],
+            "student_wish": [
+                1017,
+                1005,
+                1002,
+                1007,
+                1010
+            ],
+            "tag_count": 6,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10006",
+            "student_no": 10006,
+            "student_schedule": [
+                "Sunday_pm",
+                "Monday_pm"
+            ],
+            "student_score": 3.0699999332428,
+            "student_tag": [
+                "movie"
+            ],
+            "student_wish": [
+                1014,
+                1003,
+                1002
+            ],
+            "tag_count": 1,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10007",
+            "student_no": 10007,
+            "student_schedule": [
+                "Thursday_pm",
+                "Friday_pm"
+            ],
+            "student_score": 2.41000008583069,
+            "student_tag": [
+                "sport",
+                "trditional_opera",
+                "chess",
+                "bassball"
+            ],
+            "student_wish": [
+                1014
+            ],
+            "tag_count": 4,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10008",
+            "student_no": 10008,
+            "student_schedule": [
+                "Sunday_pm",
+                "Tuesday_am",
+                "Friday_am",
+                "Thursday_pm",
+                "Saturday_pm",
+                "Wednesday_am",
+                "Thursday_am",
+                "Wednesday_pm"
+            ],
+            "student_score": 3.11999988555908,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "jazz",
+                "pingpong",
+                "debating"
+            ],
+            "student_wish": [
+                1011,
+                1019,
+                1017
+            ],
+            "tag_count": 5,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10009",
+            "student_no": 10009,
+            "student_schedule": [
+                "Sunday_am",
+                "Saturday_am",
+                "Sunday_pm",
+                "Monday_am",
+                "Thursday_am",
+                "Tuesday_am",
+                "Thursday_pm",
+                "Wednesday_am"
+            ],
+            "student_score": 3.03999996185303,
+            "student_tag": [
+                "movie",
+                "trditional_opera",
+                "jazz",
+                "football",
+                "debating",
+                "Chinese"
+            ],
+            "student_wish": [
+                1007,
+                1003,
+                1005,
+                1020,
+                1013
+            ],
+            "tag_count": 6,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10010",
+            "student_no": 10010,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Sunday_pm",
+                "Tuesday_pm",
+                "Saturday_pm",
+                "Sunday_am",
+                "Friday_pm"
+            ],
+            "student_score": 3.20000004768372,
+            "student_tag": [
+                "sport"
+            ],
+            "student_wish": [
+                1017,
+                1002
+            ],
+            "tag_count": 1,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10011",
+            "student_no": 10011,
+            "student_schedule": [
+                "Saturday_am",
+                "Wednesday_pm",
+                "Thursday_am",
+                "Friday_am"
+            ],
+            "student_score": 2.76999998092651,
+            "student_tag": [
+                "music",
+                "hiking",
+                "chatting",
+                "tennis",
+                "discuss",
+                "Kerean",
+                "Italian",
+                "DOTA",
+                "Machinarium"
+            ],
+            "student_wish": [
+                1008
+            ],
+            "tag_count": 9,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10012",
+            "student_no": 10012,
+            "student_schedule": [
+                "Saturday_pm",
+                "Saturday_am",
+                "Tuesday_am",
+                "Friday_pm",
+                "Thursday_pm"
+            ],
+            "student_score": 2.92000007629395,
+            "student_tag": [
+                "sport",
+                "trditional_opera",
+                "hip-hop",
+                "tennis",
+                "speech",
+                "German",
+                "French",
+                "LOL",
+                "The-room"
+            ],
+            "student_wish": [
+                1020,
+                1004,
+                1016,
+                1007
+            ],
+            "tag_count": 9,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10013",
+            "student_no": 10013,
+            "student_schedule": [
+                "Tuesday_pm",
+                "Thursday_am"
+            ],
+            "student_score": 2.03999996185303,
+            "student_tag": [
+                "drama",
+                "runing"
+            ],
+            "student_wish": [
+                1009
+            ],
+            "tag_count": 2,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10014",
+            "student_no": 10014,
+            "student_schedule": [
+                "Wednesday_am",
+                "Monday_pm"
+            ],
+            "student_score": 2.35999989509583,
+            "student_tag": [
+                "drama",
+                "runing",
+                "reading"
+            ],
+            "student_wish": [
+                1009,
+                1011,
+                1010,
+                1004,
+                1005
+            ],
+            "tag_count": 3,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10015",
+            "student_no": 10015,
+            "student_schedule": [
+                "Monday_pm",
+                "Tuesday_pm",
+                "Thursday_pm",
+                "Wednesday_am",
+                "Saturday_pm",
+                "Sunday_am",
+                "Monday_am",
+                "Friday_pm",
+                "Tuesday_am"
+            ],
+            "student_score": 2.3199999332428,
+            "student_tag": [
+                "music",
+                "runing",
+                "reading"
+            ],
+            "student_wish": [
+                1009,
+                1002
+            ],
+            "tag_count": 3,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10016",
+            "student_no": 10016,
+            "student_schedule": [
+                "Thursday_am",
+                "Saturday_pm",
+                "Friday_pm",
+                "Monday_pm",
+                "Thursday_pm",
+                "Tuesday_am",
+                "Friday_am",
+                "Saturday_am",
+                "Sunday_am",
+                "Monday_am"
+            ],
+            "student_score": 4.44000005722046,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "hip-hop",
+                "pingpong",
+                "language",
+                "Chinese"
+            ],
+            "student_wish": [
+                1008,
+                1002,
+                1020,
+                1004
+            ],
+            "tag_count": 6,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10017",
+            "student_no": 10017,
+            "student_schedule": [
+                "Thursday_am",
+                "Tuesday_am",
+                "Wednesday_am"
+            ],
+            "student_score": 2.54999995231628,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "chess",
+                "bassball",
+                "discuss",
+                "Kerean",
+                "Portuguese",
+                "Arena-of-Valor",
+                "The-room",
+                "MEIKO"
+            ],
+            "student_wish": [
+                1018
+            ],
+            "tag_count": 10,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10018",
+            "student_no": 10018,
+            "student_schedule": [
+                "Sunday_pm",
+                "Friday_pm",
+                "Wednesday_pm",
+                "Tuesday_pm",
+                "Thursday_pm",
+                "Monday_pm",
+                "Wednesday_am",
+                "Tuesday_am",
+                "Monday_am"
+            ],
+            "student_score": 2.04999995231628,
+            "student_tag": [
+                "sport",
+                "hiking",
+                "hip-hop",
+                "pingpong",
+                "studying",
+                "Kerean",
+                "Italian"
+            ],
+            "student_wish": [
+                1013
+            ],
+            "tag_count": 7,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10019",
+            "student_no": 10019,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Wednesday_am",
+                "Monday_pm"
+            ],
+            "student_score": 4.46999979019165,
+            "student_tag": [
+                "drama",
+                "swimming",
+                "hip-hop",
+                "basketball",
+                "studying",
+                "Kerean"
+            ],
+            "student_wish": [
+                1010,
+                1018
+            ],
+            "tag_count": 6,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10020",
+            "student_no": 10020,
+            "student_schedule": [
+                "Sunday_am",
+                "Wednesday_am",
+                "Monday_pm",
+                "Saturday_pm",
+                "Friday_am",
+                "Tuesday_am"
+            ],
+            "student_score": 2.86999988555908,
+            "student_tag": [
+                "sport"
+            ],
+            "student_wish": [
+                1019,
+                1018,
+                1013,
+                1014
+            ],
+            "tag_count": 1,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10021",
+            "student_no": 10021,
+            "student_schedule": [
+                "Saturday_am"
+            ],
+            "student_score": 4.23999977111816,
+            "student_tag": [
+                "dancing"
+            ],
+            "student_wish": [
+                1008,
+                1016,
+                1012,
+                1013
+            ],
+            "tag_count": 1,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10022",
+            "student_no": 10022,
+            "student_schedule": [
+                "Sunday_pm",
+                "Wednesday_am",
+                "Thursday_am",
+                "Thursday_pm",
+                "Monday_am",
+                "Saturday_am",
+                "Tuesday_am"
+            ],
+            "student_score": 2.28999996185303,
+            "student_tag": [
+                "movie",
+                "runing",
+                "jazz"
+            ],
+            "student_wish": [
+                1011,
+                1012,
+                1018,
+                1010,
+                1008
+            ],
+            "tag_count": 3,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10023",
+            "student_no": 10023,
+            "student_schedule": [
+                "Tuesday_pm",
+                "Saturday_am",
+                "Wednesday_pm"
+            ],
+            "student_score": 4.98999977111816,
+            "student_tag": [
+                "movie",
+                "traveling",
+                "chess",
+                "football",
+                "discuss",
+                "German",
+                "Spanish"
+            ],
+            "student_wish": [
+                1006,
+                1005
+            ],
+            "tag_count": 7,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10024",
+            "student_no": 10024,
+            "student_schedule": [
+                "Thursday_am",
+                "Sunday_am",
+                "Saturday_am",
+                "Friday_pm",
+                "Tuesday_pm",
+                "Monday_pm",
+                "Saturday_pm",
+                "Monday_am",
+                "Wednesday_pm",
+                "Thursday_pm"
+            ],
+            "student_score": 3.17000007629395,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "jazz",
+                "football",
+                "discuss",
+                "Chinese",
+                "French",
+                "DOTA",
+                "Machinarium"
+            ],
+            "student_wish": [
+                1001
+            ],
+            "tag_count": 9,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10025",
+            "student_no": 10025,
+            "student_schedule": [
+                "Monday_am",
+                "Monday_pm",
+                "Wednesday_pm",
+                "Saturday_am",
+                "Sunday_am",
+                "Thursday_am"
+            ],
+            "student_score": 4.26999998092651,
+            "student_tag": [
+                "dancing",
+                "hiking",
+                "hip-hop",
+                "bassball",
+                "debating",
+                "Kerean",
+                "Russian",
+                "LOL"
+            ],
+            "student_wish": [
+                1006,
+                1017
+            ],
+            "tag_count": 8,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10026",
+            "student_no": 10026,
+            "student_schedule": [
+                "Friday_am",
+                "Tuesday_pm",
+                "Sunday_pm",
+                "Saturday_am",
+                "Tuesday_am",
+                "Monday_am",
+                "Saturday_pm",
+                "Sunday_am",
+                "Wednesday_am",
+                "Friday_pm"
+            ],
+            "student_score": 3.29999995231628,
+            "student_tag": [
+                "drama",
+                "swimming",
+                "reading",
+                "football"
+            ],
+            "student_wish": [
+                1015,
+                1019
+            ],
+            "tag_count": 4,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10027",
+            "student_no": 10027,
+            "student_schedule": [
+                "Monday_am",
+                "Thursday_pm",
+                "Wednesday_am",
+                "Saturday_am"
+            ],
+            "student_score": 3.71000003814697,
+            "student_tag": [
+                "sport",
+                "traveling"
+            ],
+            "student_wish": [
+                1019
+            ],
+            "tag_count": 2,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10028",
+            "student_no": 10028,
+            "student_schedule": [
+                "Monday_pm",
+                "Thursday_am",
+                "Friday_am",
+                "Tuesday_am",
+                "Tuesday_pm",
+                "Saturday_pm",
+                "Monday_am",
+                "Saturday_am"
+            ],
+            "student_score": 2.00999999046326,
+            "student_tag": [
+                "movie",
+                "runing",
+                "reading",
+                "tennis",
+                "debating",
+                "Chinese",
+                "Italian"
+            ],
+            "student_wish": [
+                1019,
+                1020
+            ],
+            "tag_count": 7,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10029",
+            "student_no": 10029,
+            "student_schedule": [
+                "Monday_pm",
+                "Friday_am",
+                "Friday_pm",
+                "Tuesday_am",
+                "Saturday_pm",
+                "Sunday_pm",
+                "Wednesday_pm",
+                "Sunday_am"
+            ],
+            "student_score": 2.49000000953674,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "jazz",
+                "bassball",
+                "language",
+                "Chinese",
+                "Portuguese",
+                "LOL",
+                "Machinarium",
+                "KAITO"
+            ],
+            "student_wish": [
+                1020
+            ],
+            "tag_count": 10,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10030",
+            "student_no": 10030,
+            "student_schedule": [
+                "Saturday_am",
+                "Wednesday_am",
+                "Monday_pm",
+                "Friday_am",
+                "Sunday_pm",
+                "Monday_am",
+                "Tuesday_am"
+            ],
+            "student_score": 4.38000011444092,
+            "student_tag": [
+                "music",
+                "swimming",
+                "chatting",
+                "bassball",
+                "debating",
+                "German",
+                "Spanish"
+            ],
+            "student_wish": [
+                1010,
+                1009
+            ],
+            "tag_count": 7,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10031",
+            "student_no": 10031,
+            "student_schedule": [
+                "Friday_pm",
+                "Saturday_am",
+                "Monday_am",
+                "Monday_pm",
+                "Sunday_am",
+                "Tuesday_pm",
+                "Friday_am",
+                "Wednesday_pm",
+                "Sunday_pm",
+                "Saturday_pm"
+            ],
+            "student_score": 2.58999991416931,
+            "student_tag": [
+                "drama",
+                "runing",
+                "reading",
+                "bassball",
+                "debating",
+                "English"
+            ],
+            "student_wish": [
+                1014,
+                1018,
+                1010,
+                1020,
+                1001
+            ],
+            "tag_count": 6,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10032",
+            "student_no": 10032,
+            "student_schedule": [
+                "Monday_am",
+                "Wednesday_am",
+                "Thursday_pm",
+                "Tuesday_am",
+                "Saturday_pm",
+                "Sunday_am"
+            ],
+            "student_score": 2.71000003814697,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "chess",
+                "pingpong",
+                "language",
+                "Japanese",
+                "French",
+                "WOW",
+                "Back-to-bed"
+            ],
+            "student_wish": [
+                1009,
+                1013,
+                1004
+            ],
+            "tag_count": 9,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10033",
+            "student_no": 10033,
+            "student_schedule": [
+                "Friday_pm",
+                "Tuesday_am",
+                "Monday_pm",
+                "Sunday_pm"
+            ],
+            "student_score": 2.76999998092651,
+            "student_tag": [
+                "movie",
+                "trditional_opera",
+                "chess",
+                "football",
+                "debating",
+                "German",
+                "Portuguese",
+                "LOL"
+            ],
+            "student_wish": [
+                1012,
+                1003,
+                1017,
+                1011,
+                1006
+            ],
+            "tag_count": 8,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10034",
+            "student_no": 10034,
+            "student_schedule": [
+                "Tuesday_pm",
+                "Wednesday_am",
+                "Tuesday_am",
+                "Sunday_pm"
+            ],
+            "student_score": 4.46999979019165,
+            "student_tag": [
+                "movie",
+                "runing",
+                "chess",
+                "pingpong"
+            ],
+            "student_wish": [
+                1019,
+                1007,
+                1009,
+                1006,
+                1011
+            ],
+            "tag_count": 4,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10035",
+            "student_no": 10035,
+            "student_schedule": [
+                "Monday_am",
+                "Wednesday_pm"
+            ],
+            "student_score": 3.25999999046326,
+            "student_tag": [
+                "sport"
+            ],
+            "student_wish": [
+                1014,
+                1002,
+                1005
+            ],
+            "tag_count": 1,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10036",
+            "student_no": 10036,
+            "student_schedule": [
+                "Sunday_am",
+                "Saturday_pm",
+                "Tuesday_pm",
+                "Friday_am"
+            ],
+            "student_score": 2.98000001907349,
+            "student_tag": [
+                "drama",
+                "traveling",
+                "jazz",
+                "basketball",
+                "debating",
+                "Japanese",
+                "Russian",
+                "Hearthstone",
+                "Machinarium",
+                "Luo-Tianyi"
+            ],
+            "student_wish": [
+                1010,
+                1004,
+                1009
+            ],
+            "tag_count": 10,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10037",
+            "student_no": 10037,
+            "student_schedule": [
+                "Sunday_pm"
+            ],
+            "student_score": 2.96000003814697,
+            "student_tag": [
+                "music",
+                "hiking",
+                "jazz",
+                "bassball",
+                "language",
+                "English",
+                "French",
+                "DOTA",
+                "Monument-Valley"
+            ],
+            "student_wish": [
+                1019
+            ],
+            "tag_count": 9,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10038",
+            "student_no": 10038,
+            "student_schedule": [
+                "Tuesday_am",
+                "Sunday_am",
+                "Monday_pm",
+                "Sunday_pm",
+                "Wednesday_am",
+                "Monday_am",
+                "Wednesday_pm",
+                "Saturday_am",
+                "Friday_am"
+            ],
+            "student_score": 2.70000004768372,
+            "student_tag": [
+                "dancing",
+                "swimming",
+                "chess",
+                "pingpong",
+                "speech",
+                "Chinese",
+                "Spanish"
+            ],
+            "student_wish": [
+                1004,
+                1017,
+                1003,
+                1014,
+                1011
+            ],
+            "tag_count": 7,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10039",
+            "student_no": 10039,
+            "student_schedule": [
+                "Friday_am",
+                "Tuesday_pm",
+                "Saturday_pm",
+                "Thursday_pm",
+                "Tuesday_am",
+                "Monday_pm",
+                "Thursday_am",
+                "Wednesday_am",
+                "Wednesday_pm",
+                "Friday_pm"
+            ],
+            "student_score": 2.0,
+            "student_tag": [
+                "movie",
+                "traveling",
+                "jazz"
+            ],
+            "student_wish": [
+                1008,
+                1006,
+                1014,
+                1005,
+                1013
+            ],
+            "tag_count": 3,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10040",
+            "student_no": 10040,
+            "student_schedule": [
+                "Tuesday_pm",
+                "Friday_am",
+                "Friday_pm",
+                "Sunday_pm",
+                "Wednesday_pm",
+                "Wednesday_am",
+                "Monday_pm",
+                "Thursday_pm"
+            ],
+            "student_score": 2.85999989509583,
+            "student_tag": [
+                "movie",
+                "traveling"
+            ],
+            "student_wish": [
+                1011,
+                1008,
+                1013
+            ],
+            "tag_count": 2,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10041",
+            "student_no": 10041,
+            "student_schedule": [
+                "Monday_am"
+            ],
+            "student_score": 4.90000009536743,
+            "student_tag": [
+                "music",
+                "traveling",
+                "reading",
+                "bassball",
+                "debating",
+                "Chinese",
+                "Italian",
+                "LOL"
+            ],
+            "student_wish": [
+                1012,
+                1011
+            ],
+            "tag_count": 8,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10042",
+            "student_no": 10042,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Tuesday_am",
+                "Monday_pm",
+                "Saturday_am",
+                "Friday_am",
+                "Tuesday_pm",
+                "Saturday_pm",
+                "Friday_pm",
+                "Sunday_am"
+            ],
+            "student_score": 4.28999996185303,
+            "student_tag": [
+                "dancing",
+                "swimming",
+                "chatting",
+                "football"
+            ],
+            "student_wish": [
+                1008,
+                1007,
+                1018
+            ],
+            "tag_count": 4,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10043",
+            "student_no": 10043,
+            "student_schedule": [
+                "Wednesday_am",
+                "Wednesday_pm",
+                "Friday_pm"
+            ],
+            "student_score": 4.73999977111816,
+            "student_tag": [
+                "drama"
+            ],
+            "student_wish": [
+                1012,
+                1001
+            ],
+            "tag_count": 1,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10044",
+            "student_no": 10044,
+            "student_schedule": [
+                "Sunday_am"
+            ],
+            "student_score": 2.64000010490417,
+            "student_tag": [
+                "drama",
+                "traveling",
+                "reading",
+                "tennis"
+            ],
+            "student_wish": [
+                1003,
+                1004,
+                1017,
+                1015
+            ],
+            "tag_count": 4,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10045",
+            "student_no": 10045,
+            "student_schedule": [
+                "Sunday_am",
+                "Wednesday_pm",
+                "Tuesday_am"
+            ],
+            "student_score": 2.82999992370605,
+            "student_tag": [
+                "drama",
+                "trditional_opera",
+                "reading",
+                "pingpong",
+                "speech",
+                "Japanese",
+                "French",
+                "Arena-of-Valor",
+                "Monument-Valley"
+            ],
+            "student_wish": [
+                1019,
+                1011,
+                1020,
+                1004
+            ],
+            "tag_count": 9,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10046",
+            "student_no": 10046,
+            "student_schedule": [
+                "Wednesday_am",
+                "Saturday_am"
+            ],
+            "student_score": 4.05999994277954,
+            "student_tag": [
+                "sport",
+                "swimming",
+                "hip-hop",
+                "tennis",
+                "studying",
+                "Chinese",
+                "Portuguese",
+                "Arena-of-Valor",
+                "Machinarium"
+            ],
+            "student_wish": [
+                1004,
+                1010
+            ],
+            "tag_count": 9,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10047",
+            "student_no": 10047,
+            "student_schedule": [
+                "Tuesday_am",
+                "Saturday_pm",
+                "Wednesday_am"
+            ],
+            "student_score": 3.89000010490417,
+            "student_tag": [
+                "dancing",
+                "traveling",
+                "hip-hop",
+                "basketball",
+                "speech",
+                "German"
+            ],
+            "student_wish": [
+                1009,
+                1006,
+                1007
+            ],
+            "tag_count": 6,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10048",
+            "student_no": 10048,
+            "student_schedule": [
+                "Tuesday_am",
+                "Saturday_am",
+                "Wednesday_pm",
+                "Thursday_pm",
+                "Sunday_am",
+                "Saturday_pm",
+                "Friday_am",
+                "Sunday_pm"
+            ],
+            "student_score": 3.23000001907349,
+            "student_tag": [
+                "sport",
+                "swimming",
+                "chess",
+                "bassball",
+                "speech",
+                "Chinese",
+                "Spanish",
+                "Arena-of-Valor"
+            ],
+            "student_wish": [
+                1013,
+                1010,
+                1018,
+                1020
+            ],
+            "tag_count": 8,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10049",
+            "student_no": 10049,
+            "student_schedule": [
+                "Tuesday_am",
+                "Wednesday_am",
+                "Saturday_am",
+                "Monday_pm",
+                "Saturday_pm",
+                "Thursday_am"
+            ],
+            "student_score": 2.35999989509583,
+            "student_tag": [
+                "music",
+                "hiking"
+            ],
+            "student_wish": [
+                1011,
+                1007,
+                1010,
+                1014
+            ],
+            "tag_count": 2,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10050",
+            "student_no": 10050,
+            "student_schedule": [
+                "Sunday_am",
+                "Thursday_am",
+                "Sunday_pm",
+                "Thursday_pm",
+                "Wednesday_am",
+                "Tuesday_am",
+                "Wednesday_pm"
+            ],
+            "student_score": 4.98000001907349,
+            "student_tag": [
+                "sport",
+                "hiking",
+                "chatting",
+                "tennis"
+            ],
+            "student_wish": [
+                1020
+            ],
+            "tag_count": 4,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10051",
+            "student_no": 10051,
+            "student_schedule": [
+                "Sunday_am",
+                "Tuesday_am",
+                "Thursday_am"
+            ],
+            "student_score": 4.05999994277954,
+            "student_tag": [
+                "movie",
+                "traveling",
+                "chess",
+                "pingpong",
+                "studying",
+                "German",
+                "Portuguese"
+            ],
+            "student_wish": [
+                1001,
+                1002,
+                1014,
+                1019,
+                1010
+            ],
+            "tag_count": 7,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10052",
+            "student_no": 10052,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Tuesday_am",
+                "Thursday_pm",
+                "Tuesday_pm",
+                "Monday_am",
+                "Monday_pm",
+                "Friday_am"
+            ],
+            "student_score": 3.8199999332428,
+            "student_tag": [
+                "dancing",
+                "hiking",
+                "hip-hop",
+                "football"
+            ],
+            "student_wish": [
+                1003,
+                1009
+            ],
+            "tag_count": 4,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10053",
+            "student_no": 10053,
+            "student_schedule": [
+                "Sunday_am",
+                "Wednesday_pm",
+                "Monday_am",
+                "Sunday_pm",
+                "Saturday_pm",
+                "Tuesday_pm",
+                "Saturday_am",
+                "Monday_pm",
+                "Thursday_am"
+            ],
+            "student_score": 2.16000008583069,
+            "student_tag": [
+                "drama",
+                "swimming",
+                "hip-hop",
+                "pingpong",
+                "speech"
+            ],
+            "student_wish": [
+                1012,
+                1004,
+                1005
+            ],
+            "tag_count": 5,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10054",
+            "student_no": 10054,
+            "student_schedule": [
+                "Saturday_pm",
+                "Monday_am",
+                "Wednesday_am",
+                "Wednesday_pm",
+                "Monday_pm"
+            ],
+            "student_score": 2.60999989509583,
+            "student_tag": [
+                "sport",
+                "trditional_opera",
+                "hip-hop",
+                "bassball",
+                "debating",
+                "German",
+                "Portuguese"
+            ],
+            "student_wish": [
+                1019,
+                1006,
+                1001
+            ],
+            "tag_count": 7,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10055",
+            "student_no": 10055,
+            "student_schedule": [
+                "Sunday_am",
+                "Friday_pm"
+            ],
+            "student_score": 2.27999997138977,
+            "student_tag": [
+                "movie",
+                "hiking",
+                "chess",
+                "bassball",
+                "discuss",
+                "Kerean",
+                "Russian",
+                "WOW",
+                "The-room",
+                "Luo-Tianyi"
+            ],
+            "student_wish": [
+                1016,
+                1013,
+                1019,
+                1004,
+                1017
+            ],
+            "tag_count": 10,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10056",
+            "student_no": 10056,
+            "student_schedule": [
+                "Sunday_am",
+                "Monday_pm",
+                "Tuesday_am",
+                "Friday_am",
+                "Wednesday_pm",
+                "Monday_am",
+                "Tuesday_pm"
+            ],
+            "student_score": 2.89000010490417,
+            "student_tag": [
+                "sport",
+                "runing",
+                "chatting",
+                "tennis",
+                "language",
+                "English",
+                "Spanish"
+            ],
+            "student_wish": [
+                1008,
+                1020,
+                1017,
+                1015
+            ],
+            "tag_count": 7,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10057",
+            "student_no": 10057,
+            "student_schedule": [
+                "Sunday_pm",
+                "Sunday_am",
+                "Saturday_pm",
+                "Friday_am"
+            ],
+            "student_score": 3.75,
+            "student_tag": [
+                "movie",
+                "hiking",
+                "chess",
+                "football",
+                "discuss",
+                "English"
+            ],
+            "student_wish": [
+                1019
+            ],
+            "tag_count": 6,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10058",
+            "student_no": 10058,
+            "student_schedule": [
+                "Tuesday_am",
+                "Friday_pm",
+                "Wednesday_pm",
+                "Thursday_am",
+                "Thursday_pm",
+                "Saturday_pm",
+                "Friday_am",
+                "Monday_pm",
+                "Tuesday_pm",
+                "Wednesday_am"
+            ],
+            "student_score": 3.04999995231628,
+            "student_tag": [
+                "music",
+                "trditional_opera",
+                "jazz",
+                "pingpong",
+                "discuss",
+                "Japanese"
+            ],
+            "student_wish": [
+                1005,
+                1002
+            ],
+            "tag_count": 6,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10059",
+            "student_no": 10059,
+            "student_schedule": [
+                "Thursday_am",
+                "Sunday_pm",
+                "Friday_am"
+            ],
+            "student_score": 4.15000009536743,
+            "student_tag": [
+                "sport",
+                "swimming",
+                "reading",
+                "tennis",
+                "discuss",
+                "Chinese"
+            ],
+            "student_wish": [
+                1009,
+                1014
+            ],
+            "tag_count": 6,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10060",
+            "student_no": 10060,
+            "student_schedule": [
+                "Friday_am",
+                "Saturday_am",
+                "Tuesday_am",
+                "Thursday_am",
+                "Sunday_am",
+                "Friday_pm",
+                "Saturday_pm",
+                "Monday_am",
+                "Wednesday_pm",
+                "Tuesday_pm"
+            ],
+            "student_score": 2.08999991416931,
+            "student_tag": [
+                "movie",
+                "hiking",
+                "jazz",
+                "tennis",
+                "debating",
+                "Japanese"
+            ],
+            "student_wish": [
+                1001,
+                1012,
+                1007,
+                1017
+            ],
+            "tag_count": 6,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10061",
+            "student_no": 10061,
+            "student_schedule": [
+                "Sunday_am",
+                "Thursday_pm"
+            ],
+            "student_score": 4.76999998092651,
+            "student_tag": [
+                "dancing",
+                "hiking",
+                "jazz",
+                "tennis",
+                "speech",
+                "Chinese",
+                "French",
+                "LOL",
+                "Machinarium",
+                "Hatsune-Miku"
+            ],
+            "student_wish": [
+                1014,
+                1009,
+                1016,
+                1007,
+                1004
+            ],
+            "tag_count": 10,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10062",
+            "student_no": 10062,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Monday_am",
+                "Friday_am",
+                "Saturday_pm",
+                "Thursday_am",
+                "Monday_pm",
+                "Saturday_am",
+                "Wednesday_am"
+            ],
+            "student_score": 3.8199999332428,
+            "student_tag": [
+                "music",
+                "swimming",
+                "jazz",
+                "basketball",
+                "studying",
+                "English"
+            ],
+            "student_wish": [
+                1001,
+                1005,
+                1010,
+                1020
+            ],
+            "tag_count": 6,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10063",
+            "student_no": 10063,
+            "student_schedule": [
+                "Wednesday_am",
+                "Thursday_pm",
+                "Friday_am",
+                "Monday_am",
+                "Tuesday_am",
+                "Wednesday_pm"
+            ],
+            "student_score": 3.38000011444092,
+            "student_tag": [
+                "drama",
+                "traveling",
+                "chatting",
+                "football",
+                "language",
+                "English",
+                "Spanish",
+                "DOTA"
+            ],
+            "student_wish": [
+                1019,
+                1008
+            ],
+            "tag_count": 8,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10064",
+            "student_no": 10064,
+            "student_schedule": [
+                "Tuesday_pm",
+                "Wednesday_am",
+                "Tuesday_am",
+                "Monday_am"
+            ],
+            "student_score": 4.48000001907349,
+            "student_tag": [
+                "music",
+                "runing",
+                "chess"
+            ],
+            "student_wish": [
+                1011,
+                1004,
+                1007,
+                1014
+            ],
+            "tag_count": 3,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10065",
+            "student_no": 10065,
+            "student_schedule": [
+                "Friday_pm",
+                "Thursday_pm",
+                "Wednesday_pm",
+                "Tuesday_am"
+            ],
+            "student_score": 4.36999988555908,
+            "student_tag": [
+                "music",
+                "swimming",
+                "hip-hop"
+            ],
+            "student_wish": [
+                1013,
+                1007
+            ],
+            "tag_count": 3,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10066",
+            "student_no": 10066,
+            "student_schedule": [
+                "Monday_am",
+                "Friday_pm"
+            ],
+            "student_score": 2.83999991416931,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "reading",
+                "tennis",
+                "language",
+                "German",
+                "Spanish"
+            ],
+            "student_wish": [
+                1015,
+                1017,
+                1003,
+                1018
+            ],
+            "tag_count": 7,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10067",
+            "student_no": 10067,
+            "student_schedule": [
+                "Sunday_am",
+                "Saturday_pm",
+                "Monday_am",
+                "Friday_pm",
+                "Wednesday_am",
+                "Saturday_am",
+                "Wednesday_pm",
+                "Thursday_am"
+            ],
+            "student_score": 2.58999991416931,
+            "student_tag": [
+                "movie"
+            ],
+            "student_wish": [
+                1009,
+                1001
+            ],
+            "tag_count": 1,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10068",
+            "student_no": 10068,
+            "student_schedule": [
+                "Wednesday_am"
+            ],
+            "student_score": 4.84000015258789,
+            "student_tag": [
+                "sport",
+                "hiking",
+                "jazz",
+                "basketball",
+                "studying",
+                "German",
+                "Russian",
+                "LOL"
+            ],
+            "student_wish": [
+                1002,
+                1016,
+                1001,
+                1008
+            ],
+            "tag_count": 8,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10069",
+            "student_no": 10069,
+            "student_schedule": [
+                "Monday_am",
+                "Saturday_pm",
+                "Sunday_am",
+                "Wednesday_am",
+                "Sunday_pm",
+                "Thursday_pm",
+                "Wednesday_pm",
+                "Thursday_am"
+            ],
+            "student_score": 2.50999999046326,
+            "student_tag": [
+                "movie",
+                "runing",
+                "chess",
+                "football",
+                "studying"
+            ],
+            "student_wish": [
+                1018,
+                1006
+            ],
+            "tag_count": 5,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10070",
+            "student_no": 10070,
+            "student_schedule": [
+                "Tuesday_pm",
+                "Thursday_pm",
+                "Saturday_pm"
+            ],
+            "student_score": 3.02999997138977,
+            "student_tag": [
+                "music",
+                "traveling",
+                "reading",
+                "pingpong",
+                "debating"
+            ],
+            "student_wish": [
+                1008,
+                1009,
+                1019
+            ],
+            "tag_count": 5,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10071",
+            "student_no": 10071,
+            "student_schedule": [
+                "Friday_am"
+            ],
+            "student_score": 2.99000000953674,
+            "student_tag": [
+                "drama",
+                "swimming",
+                "chatting",
+                "tennis",
+                "studying"
+            ],
+            "student_wish": [
+                1006,
+                1019,
+                1018,
+                1007,
+                1016
+            ],
+            "tag_count": 5,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10072",
+            "student_no": 10072,
+            "student_schedule": [
+                "Friday_am",
+                "Wednesday_am",
+                "Sunday_am",
+                "Monday_pm",
+                "Tuesday_am",
+                "Friday_pm",
+                "Monday_am",
+                "Thursday_pm"
+            ],
+            "student_score": 3.90000009536743,
+            "student_tag": [
+                "drama",
+                "traveling",
+                "reading",
+                "bassball",
+                "discuss",
+                "Japanese"
+            ],
+            "student_wish": [
+                1001,
+                1009,
+                1017,
+                1005
+            ],
+            "tag_count": 6,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10073",
+            "student_no": 10073,
+            "student_schedule": [
+                "Monday_pm",
+                "Thursday_am"
+            ],
+            "student_score": 4.46000003814697,
+            "student_tag": [
+                "dancing",
+                "runing"
+            ],
+            "student_wish": [
+                1015,
+                1007,
+                1017
+            ],
+            "tag_count": 2,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10074",
+            "student_no": 10074,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Thursday_pm",
+                "Monday_pm",
+                "Monday_am",
+                "Sunday_am",
+                "Saturday_am",
+                "Wednesday_am"
+            ],
+            "student_score": 4.75,
+            "student_tag": [
+                "dancing",
+                "runing",
+                "chatting",
+                "football",
+                "language",
+                "Kerean",
+                "Russian",
+                "Arena-of-Valor",
+                "The-room",
+                "Luo-Tianyi"
+            ],
+            "student_wish": [
+                1017,
+                1019,
+                1011
+            ],
+            "tag_count": 10,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10075",
+            "student_no": 10075,
+            "student_schedule": [
+                "Wednesday_am",
+                "Tuesday_pm",
+                "Tuesday_am",
+                "Sunday_pm",
+                "Friday_pm",
+                "Thursday_pm",
+                "Sunday_am"
+            ],
+            "student_score": 2.00999999046326,
+            "student_tag": [
+                "dancing",
+                "traveling",
+                "jazz"
+            ],
+            "student_wish": [
+                1003,
+                1018,
+                1017,
+                1020
+            ],
+            "tag_count": 3,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10076",
+            "student_no": 10076,
+            "student_schedule": [
+                "Friday_pm",
+                "Tuesday_am",
+                "Tuesday_pm"
+            ],
+            "student_score": 2.49000000953674,
+            "student_tag": [
+                "movie",
+                "hiking",
+                "hip-hop"
+            ],
+            "student_wish": [
+                1003,
+                1006,
+                1001
+            ],
+            "tag_count": 3,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10077",
+            "student_no": 10077,
+            "student_schedule": [
+                "Sunday_am",
+                "Thursday_pm",
+                "Thursday_am"
+            ],
+            "student_score": 2.00999999046326,
+            "student_tag": [
+                "movie",
+                "hiking"
+            ],
+            "student_wish": [
+                1017,
+                1008
+            ],
+            "tag_count": 2,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10078",
+            "student_no": 10078,
+            "student_schedule": [
+                "Friday_am",
+                "Saturday_am",
+                "Friday_pm",
+                "Sunday_am",
+                "Monday_am",
+                "Sunday_pm"
+            ],
+            "student_score": 3.08999991416931,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "jazz",
+                "bassball",
+                "language"
+            ],
+            "student_wish": [
+                1014,
+                1020,
+                1013
+            ],
+            "tag_count": 5,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10079",
+            "student_no": 10079,
+            "student_schedule": [
+                "Monday_am",
+                "Saturday_pm",
+                "Sunday_pm",
+                "Sunday_am",
+                "Saturday_am",
+                "Wednesday_am",
+                "Thursday_pm",
+                "Thursday_am",
+                "Wednesday_pm",
+                "Tuesday_pm"
+            ],
+            "student_score": 3.38000011444092,
+            "student_tag": [
+                "music"
+            ],
+            "student_wish": [
+                1017,
+                1014
+            ],
+            "tag_count": 1,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10080",
+            "student_no": 10080,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Tuesday_am",
+                "Monday_pm",
+                "Sunday_pm",
+                "Friday_am",
+                "Monday_am",
+                "Sunday_am"
+            ],
+            "student_score": 3.70000004768372,
+            "student_tag": [
+                "music",
+                "swimming",
+                "hip-hop",
+                "pingpong",
+                "debating",
+                "Japanese",
+                "Italian",
+                "Arena-of-Valor",
+                "The-room"
+            ],
+            "student_wish": [
+                1012,
+                1013,
+                1001
+            ],
+            "tag_count": 9,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10081",
+            "student_no": 10081,
+            "student_schedule": [
+                "Friday_pm",
+                "Friday_am",
+                "Wednesday_am",
+                "Sunday_am",
+                "Monday_pm",
+                "Wednesday_pm",
+                "Saturday_pm",
+                "Thursday_pm"
+            ],
+            "student_score": 4.19000005722046,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "reading"
+            ],
+            "student_wish": [
+                1013
+            ],
+            "tag_count": 3,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10082",
+            "student_no": 10082,
+            "student_schedule": [
+                "Friday_am",
+                "Tuesday_am"
+            ],
+            "student_score": 4.09999990463257,
+            "student_tag": [
+                "drama"
+            ],
+            "student_wish": [
+                1002,
+                1007
+            ],
+            "tag_count": 1,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10083",
+            "student_no": 10083,
+            "student_schedule": [
+                "Sunday_pm",
+                "Monday_am",
+                "Friday_pm"
+            ],
+            "student_score": 2.13000011444092,
+            "student_tag": [
+                "dancing",
+                "trditional_opera",
+                "hip-hop",
+                "basketball"
+            ],
+            "student_wish": [
+                1006
+            ],
+            "tag_count": 4,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10084",
+            "student_no": 10084,
+            "student_schedule": [
+                "Monday_pm",
+                "Monday_am",
+                "Saturday_pm"
+            ],
+            "student_score": 4.90999984741211,
+            "student_tag": [
+                "drama"
+            ],
+            "student_wish": [
+                1009
+            ],
+            "tag_count": 1,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10085",
+            "student_no": 10085,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Wednesday_am",
+                "Thursday_am",
+                "Tuesday_am",
+                "Monday_pm",
+                "Monday_am",
+                "Saturday_pm",
+                "Sunday_pm",
+                "Friday_am",
+                "Friday_pm"
+            ],
+            "student_score": 3.03999996185303,
+            "student_tag": [
+                "sport",
+                "runing",
+                "chatting",
+                "pingpong",
+                "discuss"
+            ],
+            "student_wish": [
+                1005,
+                1001
+            ],
+            "tag_count": 5,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10086",
+            "student_no": 10086,
+            "student_schedule": [
+                "Sunday_am"
+            ],
+            "student_score": 2.53999996185303,
+            "student_tag": [
+                "movie",
+                "swimming",
+                "hip-hop",
+                "bassball",
+                "studying",
+                "Japanese",
+                "Spanish",
+                "Hearthstone"
+            ],
+            "student_wish": [
+                1014,
+                1007,
+                1018,
+                1003
+            ],
+            "tag_count": 8,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10087",
+            "student_no": 10087,
+            "student_schedule": [
+                "Thursday_pm",
+                "Friday_pm",
+                "Friday_am"
+            ],
+            "student_score": 2.1800000667572,
+            "student_tag": [
+                "movie",
+                "trditional_opera",
+                "reading",
+                "pingpong",
+                "debating",
+                "Kerean"
+            ],
+            "student_wish": [
+                1006,
+                1004
+            ],
+            "tag_count": 6,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10088",
+            "student_no": 10088,
+            "student_schedule": [
+                "Wednesday_am",
+                "Tuesday_am"
+            ],
+            "student_score": 2.36999988555908,
+            "student_tag": [
+                "sport",
+                "hiking",
+                "hip-hop",
+                "basketball",
+                "discuss"
+            ],
+            "student_wish": [
+                1014
+            ],
+            "tag_count": 5,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10089",
+            "student_no": 10089,
+            "student_schedule": [
+                "Friday_am",
+                "Saturday_am",
+                "Friday_pm",
+                "Tuesday_am",
+                "Monday_pm",
+                "Sunday_am"
+            ],
+            "student_score": 2.32999992370605,
+            "student_tag": [
+                "sport",
+                "runing",
+                "jazz",
+                "bassball",
+                "debating",
+                "English"
+            ],
+            "student_wish": [
+                1013
+            ],
+            "tag_count": 6,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10090",
+            "student_no": 10090,
+            "student_schedule": [
+                "Friday_am",
+                "Saturday_pm",
+                "Sunday_pm",
+                "Wednesday_pm",
+                "Tuesday_am"
+            ],
+            "student_score": 3.99000000953674,
+            "student_tag": [
+                "sport",
+                "traveling",
+                "chatting",
+                "pingpong",
+                "speech"
+            ],
+            "student_wish": [
+                1014
+            ],
+            "tag_count": 5,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10091",
+            "student_no": 10091,
+            "student_schedule": [
+                "Saturday_pm",
+                "Thursday_pm",
+                "Friday_am",
+                "Monday_pm",
+                "Wednesday_am",
+                "Tuesday_pm",
+                "Wednesday_pm",
+                "Thursday_am",
+                "Tuesday_am"
+            ],
+            "student_score": 2.10999989509583,
+            "student_tag": [
+                "music",
+                "trditional_opera",
+                "hip-hop",
+                "tennis",
+                "studying",
+                "Kerean"
+            ],
+            "student_wish": [
+                1001,
+                1020,
+                1009,
+                1012
+            ],
+            "tag_count": 6,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10092",
+            "student_no": 10092,
+            "student_schedule": [
+                "Friday_pm",
+                "Saturday_pm",
+                "Wednesday_am",
+                "Saturday_am",
+                "Tuesday_am",
+                "Tuesday_pm",
+                "Monday_pm",
+                "Sunday_pm",
+                "Wednesday_pm"
+            ],
+            "student_score": 3.24000000953674,
+            "student_tag": [
+                "dancing",
+                "trditional_opera"
+            ],
+            "student_wish": [
+                1016,
+                1017,
+                1010
+            ],
+            "tag_count": 2,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10093",
+            "student_no": 10093,
+            "student_schedule": [
+                "Thursday_pm",
+                "Sunday_am",
+                "Tuesday_am",
+                "Sunday_pm",
+                "Tuesday_pm",
+                "Friday_pm",
+                "Saturday_am"
+            ],
+            "student_score": 2.91000008583069,
+            "student_tag": [
+                "sport",
+                "hiking",
+                "chess",
+                "basketball",
+                "speech",
+                "German",
+                "French",
+                "Arena-of-Valor",
+                "The-room",
+                "Luo-Tianyi"
+            ],
+            "student_wish": [
+                1003
+            ],
+            "tag_count": 10,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10094",
+            "student_no": 10094,
+            "student_schedule": [
+                "Wednesday_am"
+            ],
+            "student_score": 4.21000003814697,
+            "student_tag": [
+                "drama",
+                "traveling",
+                "chatting",
+                "tennis"
+            ],
+            "student_wish": [
+                1002,
+                1003,
+                1015,
+                1014
+            ],
+            "tag_count": 4,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10095",
+            "student_no": 10095,
+            "student_schedule": [
+                "Friday_pm",
+                "Saturday_am",
+                "Monday_am",
+                "Thursday_pm",
+                "Wednesday_am",
+                "Sunday_pm",
+                "Tuesday_am",
+                "Tuesday_pm"
+            ],
+            "student_score": 3.64000010490417,
+            "student_tag": [
+                "sport",
+                "hiking",
+                "reading",
+                "bassball",
+                "speech",
+                "Kerean",
+                "Russian"
+            ],
+            "student_wish": [
+                1019
+            ],
+            "tag_count": 7,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10096",
+            "student_no": 10096,
+            "student_schedule": [
+                "Monday_am",
+                "Sunday_am",
+                "Friday_am"
+            ],
+            "student_score": 2.36999988555908,
+            "student_tag": [
+                "movie",
+                "swimming",
+                "chatting",
+                "pingpong",
+                "discuss"
+            ],
+            "student_wish": [
+                1003,
+                1020,
+                1002,
+                1011
+            ],
+            "tag_count": 5,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10097",
+            "student_no": 10097,
+            "student_schedule": [
+                "Monday_pm",
+                "Saturday_pm",
+                "Tuesday_pm",
+                "Thursday_am",
+                "Sunday_pm",
+                "Wednesday_pm",
+                "Friday_pm",
+                "Saturday_am",
+                "Thursday_pm",
+                "Sunday_am"
+            ],
+            "student_score": 4.38000011444092,
+            "student_tag": [
+                "drama"
+            ],
+            "student_wish": [
+                1001,
+                1011,
+                1004
+            ],
+            "tag_count": 1,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10098",
+            "student_no": 10098,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Friday_am",
+                "Thursday_am",
+                "Tuesday_am",
+                "Monday_am"
+            ],
+            "student_score": 3.16000008583069,
+            "student_tag": [
+                "sport",
+                "traveling",
+                "jazz"
+            ],
+            "student_wish": [
+                1020,
+                1002,
+                1014,
+                1005,
+                1003
+            ],
+            "tag_count": 3,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10099",
+            "student_no": 10099,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Thursday_am"
+            ],
+            "student_score": 2.82999992370605,
+            "student_tag": [
+                "music",
+                "trditional_opera",
+                "hip-hop",
+                "pingpong",
+                "debating",
+                "English",
+                "Russian",
+                "LOL"
+            ],
+            "student_wish": [
+                1015,
+                1016
+            ],
+            "tag_count": 8,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10100",
+            "student_no": 10100,
+            "student_schedule": [
+                "Sunday_am",
+                "Thursday_pm",
+                "Friday_am",
+                "Friday_pm"
+            ],
+            "student_score": 4.53000020980835,
+            "student_tag": [
+                "movie",
+                "runing",
+                "reading",
+                "tennis",
+                "studying"
+            ],
+            "student_wish": [
+                1009
+            ],
+            "tag_count": 5,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10101",
+            "student_no": 10101,
+            "student_schedule": [
+                "Saturday_pm",
+                "Tuesday_pm",
+                "Monday_pm",
+                "Tuesday_am",
+                "Sunday_pm"
+            ],
+            "student_score": 2.82999992370605,
+            "student_tag": [
+                "drama",
+                "swimming",
+                "chess",
+                "football",
+                "discuss",
+                "German"
+            ],
+            "student_wish": [
+                1014,
+                1019,
+                1012
+            ],
+            "tag_count": 6,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10102",
+            "student_no": 10102,
+            "student_schedule": [
+                "Friday_am"
+            ],
+            "student_score": 4.57000017166138,
+            "student_tag": [
+                "movie",
+                "runing",
+                "hip-hop",
+                "bassball",
+                "speech",
+                "German"
+            ],
+            "student_wish": [
+                1014,
+                1016,
+                1020,
+                1012,
+                1007
+            ],
+            "tag_count": 6,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10103",
+            "student_no": 10103,
+            "student_schedule": [
+                "Friday_pm",
+                "Tuesday_am",
+                "Sunday_am",
+                "Thursday_am",
+                "Wednesday_pm",
+                "Sunday_pm",
+                "Monday_pm",
+                "Saturday_am"
+            ],
+            "student_score": 3.42000007629395,
+            "student_tag": [
+                "sport",
+                "trditional_opera",
+                "chess",
+                "pingpong"
+            ],
+            "student_wish": [
+                1002,
+                1009,
+                1018
+            ],
+            "tag_count": 4,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10104",
+            "student_no": 10104,
+            "student_schedule": [
+                "Saturday_am",
+                "Wednesday_am"
+            ],
+            "student_score": 2.72000002861023,
+            "student_tag": [
+                "dancing",
+                "runing",
+                "jazz",
+                "pingpong"
+            ],
+            "student_wish": [
+                1007,
+                1002,
+                1003,
+                1006
+            ],
+            "tag_count": 4,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10105",
+            "student_no": 10105,
+            "student_schedule": [
+                "Tuesday_am",
+                "Tuesday_pm",
+                "Monday_pm",
+                "Monday_am",
+                "Saturday_pm",
+                "Sunday_pm",
+                "Saturday_am",
+                "Wednesday_am",
+                "Friday_pm"
+            ],
+            "student_score": 2.90000009536743,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "reading",
+                "pingpong",
+                "debating",
+                "Japanese",
+                "Italian",
+                "Arena-of-Valor"
+            ],
+            "student_wish": [
+                1005,
+                1003
+            ],
+            "tag_count": 8,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10106",
+            "student_no": 10106,
+            "student_schedule": [
+                "Wednesday_am",
+                "Thursday_am",
+                "Tuesday_am",
+                "Wednesday_pm",
+                "Friday_pm",
+                "Saturday_am"
+            ],
+            "student_score": 2.64000010490417,
+            "student_tag": [
+                "music",
+                "runing",
+                "chess",
+                "bassball",
+                "discuss",
+                "English",
+                "Russian"
+            ],
+            "student_wish": [
+                1008
+            ],
+            "tag_count": 7,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10107",
+            "student_no": 10107,
+            "student_schedule": [
+                "Sunday_am"
+            ],
+            "student_score": 4.46000003814697,
+            "student_tag": [
+                "dancing",
+                "trditional_opera",
+                "hip-hop",
+                "bassball",
+                "studying"
+            ],
+            "student_wish": [
+                1003,
+                1005,
+                1001,
+                1019,
+                1008
+            ],
+            "tag_count": 5,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10108",
+            "student_no": 10108,
+            "student_schedule": [
+                "Friday_pm",
+                "Tuesday_am",
+                "Wednesday_am",
+                "Thursday_am",
+                "Monday_am"
+            ],
+            "student_score": 2.99000000953674,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "jazz"
+            ],
+            "student_wish": [
+                1016,
+                1017,
+                1013
+            ],
+            "tag_count": 3,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10109",
+            "student_no": 10109,
+            "student_schedule": [
+                "Wednesday_am",
+                "Sunday_am",
+                "Sunday_pm",
+                "Tuesday_am",
+                "Monday_pm",
+                "Saturday_pm",
+                "Friday_pm"
+            ],
+            "student_score": 3.94000005722046,
+            "student_tag": [
+                "movie",
+                "swimming",
+                "hip-hop",
+                "tennis",
+                "discuss",
+                "Japanese",
+                "Portuguese",
+                "Hearthstone",
+                "Machinarium",
+                "Kagamine-Rin"
+            ],
+            "student_wish": [
+                1015,
+                1002,
+                1010,
+                1006
+            ],
+            "tag_count": 10,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10110",
+            "student_no": 10110,
+            "student_schedule": [
+                "Wednesday_pm"
+            ],
+            "student_score": 2.75999999046326,
+            "student_tag": [
+                "sport"
+            ],
+            "student_wish": [
+                1018,
+                1020,
+                1016,
+                1003,
+                1015
+            ],
+            "tag_count": 1,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10111",
+            "student_no": 10111,
+            "student_schedule": [
+                "Friday_pm"
+            ],
+            "student_score": 3.13000011444092,
+            "student_tag": [
+                "drama",
+                "swimming",
+                "chess",
+                "bassball",
+                "language",
+                "German"
+            ],
+            "student_wish": [
+                1005,
+                1007,
+                1003,
+                1006
+            ],
+            "tag_count": 6,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10112",
+            "student_no": 10112,
+            "student_schedule": [
+                "Monday_am",
+                "Wednesday_am",
+                "Tuesday_am",
+                "Tuesday_pm",
+                "Wednesday_pm",
+                "Friday_pm",
+                "Thursday_pm"
+            ],
+            "student_score": 4.28000020980835,
+            "student_tag": [
+                "drama",
+                "runing",
+                "chatting",
+                "pingpong",
+                "speech"
+            ],
+            "student_wish": [
+                1011
+            ],
+            "tag_count": 5,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10113",
+            "student_no": 10113,
+            "student_schedule": [
+                "Friday_am",
+                "Thursday_am",
+                "Tuesday_am",
+                "Saturday_am",
+                "Thursday_pm"
+            ],
+            "student_score": 2.25999999046326,
+            "student_tag": [
+                "sport",
+                "traveling",
+                "hip-hop",
+                "football",
+                "speech",
+                "German",
+                "French",
+                "WOW",
+                "Machinarium",
+                "MEIKO"
+            ],
+            "student_wish": [
+                1018,
+                1017,
+                1009,
+                1003,
+                1015
+            ],
+            "tag_count": 10,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10114",
+            "student_no": 10114,
+            "student_schedule": [
+                "Friday_am",
+                "Saturday_am",
+                "Wednesday_pm",
+                "Wednesday_am",
+                "Sunday_pm",
+                "Saturday_pm",
+                "Tuesday_pm",
+                "Monday_pm",
+                "Sunday_am",
+                "Monday_am"
+            ],
+            "student_score": 4.96999979019165,
+            "student_tag": [
+                "drama"
+            ],
+            "student_wish": [
+                1010,
+                1006,
+                1003,
+                1009
+            ],
+            "tag_count": 1,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10115",
+            "student_no": 10115,
+            "student_schedule": [
+                "Saturday_am",
+                "Thursday_pm",
+                "Thursday_am",
+                "Sunday_am",
+                "Monday_pm",
+                "Monday_am",
+                "Tuesday_am",
+                "Friday_am"
+            ],
+            "student_score": 4.46000003814697,
+            "student_tag": [
+                "drama",
+                "traveling",
+                "jazz",
+                "pingpong",
+                "speech",
+                "German",
+                "Spanish"
+            ],
+            "student_wish": [
+                1013,
+                1002,
+                1007,
+                1018,
+                1008
+            ],
+            "tag_count": 7,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10116",
+            "student_no": 10116,
+            "student_schedule": [
+                "Saturday_am",
+                "Monday_am",
+                "Monday_pm",
+                "Thursday_pm",
+                "Thursday_am",
+                "Wednesday_pm",
+                "Tuesday_am"
+            ],
+            "student_score": 2.27999997138977,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "jazz",
+                "football",
+                "debating",
+                "Chinese",
+                "Russian",
+                "LOL",
+                "Back-to-bed",
+                "Kagamine-Rin"
+            ],
+            "student_wish": [
+                1005
+            ],
+            "tag_count": 10,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10117",
+            "student_no": 10117,
+            "student_schedule": [
+                "Tuesday_pm",
+                "Wednesday_pm",
+                "Thursday_pm",
+                "Saturday_pm",
+                "Tuesday_am",
+                "Friday_am",
+                "Friday_pm",
+                "Sunday_pm",
+                "Sunday_am"
+            ],
+            "student_score": 3.34999990463257,
+            "student_tag": [
+                "music",
+                "swimming",
+                "reading",
+                "basketball",
+                "studying",
+                "Chinese",
+                "Russian",
+                "DOTA",
+                "Back-to-bed",
+                "KAITO"
+            ],
+            "student_wish": [
+                1003,
+                1015,
+                1019,
+                1001,
+                1010
+            ],
+            "tag_count": 10,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10118",
+            "student_no": 10118,
+            "student_schedule": [
+                "Wednesday_am"
+            ],
+            "student_score": 4.94000005722046,
+            "student_tag": [
+                "music",
+                "runing",
+                "jazz",
+                "basketball",
+                "language",
+                "Japanese",
+                "Portuguese"
+            ],
+            "student_wish": [
+                1003
+            ],
+            "tag_count": 7,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10119",
+            "student_no": 10119,
+            "student_schedule": [
+                "Thursday_pm",
+                "Friday_pm"
+            ],
+            "student_score": 2.55999994277954,
+            "student_tag": [
+                "dancing",
+                "trditional_opera",
+                "reading",
+                "football"
+            ],
+            "student_wish": [
+                1012,
+                1006
+            ],
+            "tag_count": 4,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10120",
+            "student_no": 10120,
+            "student_schedule": [
+                "Thursday_am"
+            ],
+            "student_score": 4.15999984741211,
+            "student_tag": [
+                "dancing",
+                "trditional_opera",
+                "chess",
+                "football",
+                "speech",
+                "German",
+                "Russian",
+                "DOTA"
+            ],
+            "student_wish": [
+                1002,
+                1009
+            ],
+            "tag_count": 8,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10121",
+            "student_no": 10121,
+            "student_schedule": [
+                "Sunday_am",
+                "Tuesday_pm",
+                "Sunday_pm"
+            ],
+            "student_score": 2.16000008583069,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "chatting",
+                "tennis",
+                "debating",
+                "Japanese",
+                "Portuguese",
+                "Hearthstone"
+            ],
+            "student_wish": [
+                1010
+            ],
+            "tag_count": 8,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10122",
+            "student_no": 10122,
+            "student_schedule": [
+                "Sunday_pm",
+                "Wednesday_pm",
+                "Monday_am",
+                "Thursday_am",
+                "Saturday_am",
+                "Wednesday_am",
+                "Friday_pm",
+                "Thursday_pm"
+            ],
+            "student_score": 3.01999998092651,
+            "student_tag": [
+                "movie",
+                "hiking"
+            ],
+            "student_wish": [
+                1016,
+                1019,
+                1002
+            ],
+            "tag_count": 2,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10123",
+            "student_no": 10123,
+            "student_schedule": [
+                "Tuesday_am",
+                "Wednesday_pm",
+                "Thursday_am",
+                "Monday_pm",
+                "Saturday_pm",
+                "Tuesday_pm",
+                "Friday_am"
+            ],
+            "student_score": 3.75,
+            "student_tag": [
+                "drama",
+                "traveling"
+            ],
+            "student_wish": [
+                1018,
+                1003,
+                1012,
+                1007,
+                1020
+            ],
+            "tag_count": 2,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10124",
+            "student_no": 10124,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Thursday_pm",
+                "Monday_am",
+                "Tuesday_am",
+                "Wednesday_am",
+                "Friday_am",
+                "Saturday_pm"
+            ],
+            "student_score": 4.17000007629395,
+            "student_tag": [
+                "drama",
+                "trditional_opera"
+            ],
+            "student_wish": [
+                1002,
+                1012,
+                1004,
+                1003,
+                1007
+            ],
+            "tag_count": 2,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10125",
+            "student_no": 10125,
+            "student_schedule": [
+                "Friday_pm"
+            ],
+            "student_score": 4.78999996185303,
+            "student_tag": [
+                "music"
+            ],
+            "student_wish": [
+                1001,
+                1008
+            ],
+            "tag_count": 1,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10126",
+            "student_no": 10126,
+            "student_schedule": [
+                "Tuesday_am",
+                "Thursday_am",
+                "Saturday_am",
+                "Thursday_pm",
+                "Friday_am"
+            ],
+            "student_score": 3.96000003814697,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "reading",
+                "basketball",
+                "studying",
+                "German",
+                "Italian",
+                "Arena-of-Valor",
+                "Monument-Valley"
+            ],
+            "student_wish": [
+                1002,
+                1011,
+                1016
+            ],
+            "tag_count": 9,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10127",
+            "student_no": 10127,
+            "student_schedule": [
+                "Friday_am",
+                "Wednesday_pm",
+                "Thursday_am",
+                "Tuesday_pm",
+                "Sunday_pm",
+                "Friday_pm",
+                "Sunday_am"
+            ],
+            "student_score": 3.82999992370605,
+            "student_tag": [
+                "movie",
+                "swimming",
+                "hip-hop",
+                "tennis"
+            ],
+            "student_wish": [
+                1006,
+                1017,
+                1003,
+                1008
+            ],
+            "tag_count": 4,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10128",
+            "student_no": 10128,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Wednesday_am",
+                "Saturday_pm",
+                "Sunday_pm",
+                "Tuesday_pm"
+            ],
+            "student_score": 4.26999998092651,
+            "student_tag": [
+                "dancing",
+                "trditional_opera",
+                "jazz",
+                "pingpong",
+                "language",
+                "English",
+                "French",
+                "Arena-of-Valor",
+                "Monument-Valley"
+            ],
+            "student_wish": [
+                1003,
+                1010,
+                1002,
+                1015
+            ],
+            "tag_count": 9,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10129",
+            "student_no": 10129,
+            "student_schedule": [
+                "Sunday_am"
+            ],
+            "student_score": 4.25,
+            "student_tag": [
+                "sport",
+                "hiking",
+                "jazz"
+            ],
+            "student_wish": [
+                1012,
+                1002,
+                1015
+            ],
+            "tag_count": 3,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10130",
+            "student_no": 10130,
+            "student_schedule": [
+                "Tuesday_am",
+                "Thursday_am",
+                "Friday_am"
+            ],
+            "student_score": 4.11999988555908,
+            "student_tag": [
+                "movie",
+                "hiking",
+                "hip-hop",
+                "football",
+                "speech",
+                "English",
+                "Spanish",
+                "LOL",
+                "The-room",
+                "MEIKO"
+            ],
+            "student_wish": [
+                1002,
+                1018
+            ],
+            "tag_count": 10,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10131",
+            "student_no": 10131,
+            "student_schedule": [
+                "Saturday_pm",
+                "Saturday_am",
+                "Wednesday_am",
+                "Wednesday_pm",
+                "Sunday_am"
+            ],
+            "student_score": 3.80999994277954,
+            "student_tag": [
+                "drama",
+                "runing"
+            ],
+            "student_wish": [
+                1019,
+                1001
+            ],
+            "tag_count": 2,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10132",
+            "student_no": 10132,
+            "student_schedule": [
+                "Thursday_pm",
+                "Monday_pm",
+                "Tuesday_am",
+                "Thursday_am",
+                "Saturday_pm"
+            ],
+            "student_score": 3.03999996185303,
+            "student_tag": [
+                "drama",
+                "trditional_opera",
+                "reading",
+                "pingpong",
+                "language",
+                "Japanese",
+                "French",
+                "LOL",
+                "Machinarium",
+                "Luo-Tianyi"
+            ],
+            "student_wish": [
+                1004,
+                1013
+            ],
+            "tag_count": 10,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10133",
+            "student_no": 10133,
+            "student_schedule": [
+                "Thursday_am",
+                "Friday_pm",
+                "Thursday_pm"
+            ],
+            "student_score": 4.82000017166138,
+            "student_tag": [
+                "music",
+                "traveling",
+                "hip-hop",
+                "basketball",
+                "speech",
+                "Chinese"
+            ],
+            "student_wish": [
+                1018,
+                1005,
+                1020
+            ],
+            "tag_count": 6,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10134",
+            "student_no": 10134,
+            "student_schedule": [
+                "Saturday_pm"
+            ],
+            "student_score": 4.53000020980835,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "chatting",
+                "pingpong"
+            ],
+            "student_wish": [
+                1001,
+                1015,
+                1013
+            ],
+            "tag_count": 4,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10135",
+            "student_no": 10135,
+            "student_schedule": [
+                "Thursday_pm",
+                "Friday_am",
+                "Monday_pm",
+                "Tuesday_am",
+                "Tuesday_pm"
+            ],
+            "student_score": 4.76999998092651,
+            "student_tag": [
+                "sport",
+                "trditional_opera",
+                "chess",
+                "pingpong"
+            ],
+            "student_wish": [
+                1019,
+                1011,
+                1008,
+                1010
+            ],
+            "tag_count": 4,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10136",
+            "student_no": 10136,
+            "student_schedule": [
+                "Friday_pm",
+                "Saturday_pm",
+                "Monday_pm",
+                "Tuesday_am",
+                "Saturday_am",
+                "Thursday_am",
+                "Friday_am",
+                "Sunday_am",
+                "Tuesday_pm"
+            ],
+            "student_score": 3.50999999046326,
+            "student_tag": [
+                "sport",
+                "swimming",
+                "jazz",
+                "basketball",
+                "debating",
+                "English",
+                "French",
+                "Hearthstone",
+                "Machinarium"
+            ],
+            "student_wish": [
+                1018,
+                1003,
+                1005,
+                1004,
+                1001
+            ],
+            "tag_count": 9,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10137",
+            "student_no": 10137,
+            "student_schedule": [
+                "Thursday_pm",
+                "Friday_pm",
+                "Monday_pm",
+                "Monday_am",
+                "Friday_am",
+                "Wednesday_am",
+                "Saturday_pm",
+                "Saturday_am"
+            ],
+            "student_score": 4.48000001907349,
+            "student_tag": [
+                "dancing",
+                "trditional_opera",
+                "hip-hop",
+                "tennis",
+                "speech",
+                "Kerean"
+            ],
+            "student_wish": [
+                1007
+            ],
+            "tag_count": 6,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10138",
+            "student_no": 10138,
+            "student_schedule": [
+                "Saturday_pm",
+                "Friday_am",
+                "Saturday_am",
+                "Sunday_pm",
+                "Tuesday_pm",
+                "Thursday_am",
+                "Wednesday_am"
+            ],
+            "student_score": 3.3199999332428,
+            "student_tag": [
+                "drama",
+                "trditional_opera",
+                "chatting",
+                "football",
+                "language",
+                "Kerean",
+                "Italian",
+                "DOTA",
+                "Monument-Valley",
+                "KAITO"
+            ],
+            "student_wish": [
+                1020,
+                1013,
+                1018,
+                1003
+            ],
+            "tag_count": 10,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10139",
+            "student_no": 10139,
+            "student_schedule": [
+                "Tuesday_pm",
+                "Monday_am",
+                "Monday_pm",
+                "Friday_am"
+            ],
+            "student_score": 2.54999995231628,
+            "student_tag": [
+                "sport",
+                "hiking",
+                "jazz",
+                "pingpong",
+                "language",
+                "English",
+                "French",
+                "Arena-of-Valor",
+                "Monument-Valley"
+            ],
+            "student_wish": [
+                1007,
+                1013
+            ],
+            "tag_count": 9,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10140",
+            "student_no": 10140,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Friday_pm",
+                "Thursday_am",
+                "Wednesday_am"
+            ],
+            "student_score": 2.73000001907349,
+            "student_tag": [
+                "dancing",
+                "runing",
+                "chatting",
+                "football"
+            ],
+            "student_wish": [
+                1012
+            ],
+            "tag_count": 4,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10141",
+            "student_no": 10141,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Saturday_am",
+                "Tuesday_pm",
+                "Thursday_am"
+            ],
+            "student_score": 3.59999990463257,
+            "student_tag": [
+                "music",
+                "trditional_opera"
+            ],
+            "student_wish": [
+                1019,
+                1007,
+                1003,
+                1001,
+                1004
+            ],
+            "tag_count": 2,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10142",
+            "student_no": 10142,
+            "student_schedule": [
+                "Friday_am"
+            ],
+            "student_score": 3.65000009536743,
+            "student_tag": [
+                "movie",
+                "hiking",
+                "reading",
+                "tennis",
+                "discuss",
+                "Kerean",
+                "French"
+            ],
+            "student_wish": [
+                1012,
+                1013,
+                1016
+            ],
+            "tag_count": 7,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10143",
+            "student_no": 10143,
+            "student_schedule": [
+                "Friday_am"
+            ],
+            "student_score": 2.55999994277954,
+            "student_tag": [
+                "dancing",
+                "traveling",
+                "jazz",
+                "pingpong"
+            ],
+            "student_wish": [
+                1004,
+                1007
+            ],
+            "tag_count": 4,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10144",
+            "student_no": 10144,
+            "student_schedule": [
+                "Friday_am",
+                "Sunday_am",
+                "Thursday_pm",
+                "Tuesday_am",
+                "Saturday_am",
+                "Wednesday_pm",
+                "Tuesday_pm",
+                "Saturday_pm",
+                "Monday_am",
+                "Monday_pm"
+            ],
+            "student_score": 3.35999989509583,
+            "student_tag": [
+                "music"
+            ],
+            "student_wish": [
+                1018,
+                1001,
+                1014
+            ],
+            "tag_count": 1,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10145",
+            "student_no": 10145,
+            "student_schedule": [
+                "Friday_pm",
+                "Wednesday_pm",
+                "Saturday_pm",
+                "Wednesday_am",
+                "Monday_am",
+                "Tuesday_pm"
+            ],
+            "student_score": 4.23999977111816,
+            "student_tag": [
+                "sport",
+                "swimming",
+                "reading",
+                "basketball"
+            ],
+            "student_wish": [
+                1004,
+                1016,
+                1019,
+                1006
+            ],
+            "tag_count": 4,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10146",
+            "student_no": 10146,
+            "student_schedule": [
+                "Saturday_pm",
+                "Monday_am"
+            ],
+            "student_score": 4.57999992370605,
+            "student_tag": [
+                "movie",
+                "hiking",
+                "chatting",
+                "bassball",
+                "studying",
+                "English",
+                "Spanish"
+            ],
+            "student_wish": [
+                1005,
+                1003,
+                1020
+            ],
+            "tag_count": 7,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10147",
+            "student_no": 10147,
+            "student_schedule": [
+                "Wednesday_am",
+                "Friday_pm",
+                "Sunday_am",
+                "Wednesday_pm",
+                "Friday_am",
+                "Sunday_pm",
+                "Tuesday_pm"
+            ],
+            "student_score": 4.03000020980835,
+            "student_tag": [
+                "music",
+                "runing",
+                "chess",
+                "tennis",
+                "language",
+                "German",
+                "Spanish",
+                "DOTA"
+            ],
+            "student_wish": [
+                1018,
+                1004
+            ],
+            "tag_count": 8,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10148",
+            "student_no": 10148,
+            "student_schedule": [
+                "Tuesday_pm",
+                "Wednesday_pm",
+                "Tuesday_am",
+                "Monday_am",
+                "Thursday_am",
+                "Sunday_am",
+                "Monday_pm",
+                "Friday_pm",
+                "Thursday_pm",
+                "Wednesday_am"
+            ],
+            "student_score": 3.29999995231628,
+            "student_tag": [
+                "drama",
+                "traveling",
+                "reading",
+                "basketball",
+                "speech",
+                "Kerean",
+                "Italian",
+                "Arena-of-Valor",
+                "The-room"
+            ],
+            "student_wish": [
+                1007
+            ],
+            "tag_count": 9,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10149",
+            "student_no": 10149,
+            "student_schedule": [
+                "Saturday_am"
+            ],
+            "student_score": 3.67000007629395,
+            "student_tag": [
+                "music",
+                "hiking",
+                "chatting",
+                "tennis",
+                "debating",
+                "Japanese",
+                "Spanish"
+            ],
+            "student_wish": [
+                1017
+            ],
+            "tag_count": 7,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10150",
+            "student_no": 10150,
+            "student_schedule": [
+                "Thursday_pm",
+                "Friday_am",
+                "Wednesday_pm",
+                "Friday_pm",
+                "Thursday_am"
+            ],
+            "student_score": 3.30999994277954,
+            "student_tag": [
+                "dancing",
+                "traveling",
+                "jazz",
+                "pingpong",
+                "studying",
+                "German"
+            ],
+            "student_wish": [
+                1012,
+                1008,
+                1011
+            ],
+            "tag_count": 6,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 10,
+            "student_cur": -1,
+            "student_name": "student_10151",
+            "student_no": 10151,
+            "student_schedule": [
+                "Thursday_pm",
+                "Monday_pm",
+                "Saturday_am",
+                "Friday_pm",
+                "Wednesday_pm",
+                "Thursday_am",
+                "Sunday_pm",
+                "Saturday_pm",
+                "Friday_am",
+                "Tuesday_am"
+            ],
+            "student_score": 4.17000007629395,
+            "student_tag": [
+                "drama",
+                "hiking",
+                "jazz",
+                "tennis",
+                "discuss",
+                "German",
+                "Russian",
+                "Arena-of-Valor",
+                "Back-to-bed",
+                "Kagamine-Rin"
+            ],
+            "student_wish": [
+                1004,
+                1003,
+                1008
+            ],
+            "tag_count": 10,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10152",
+            "student_no": 10152,
+            "student_schedule": [
+                "Monday_pm",
+                "Thursday_am",
+                "Saturday_pm",
+                "Tuesday_am",
+                "Sunday_am",
+                "Monday_am"
+            ],
+            "student_score": 4.05000019073486,
+            "student_tag": [
+                "dancing",
+                "hiking",
+                "hip-hop",
+                "bassball",
+                "debating",
+                "German",
+                "Portuguese",
+                "DOTA"
+            ],
+            "student_wish": [
+                1017,
+                1011,
+                1012,
+                1006,
+                1015
+            ],
+            "tag_count": 8,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10153",
+            "student_no": 10153,
+            "student_schedule": [
+                "Tuesday_am",
+                "Sunday_am"
+            ],
+            "student_score": 2.66000008583069,
+            "student_tag": [
+                "sport",
+                "swimming",
+                "reading",
+                "football",
+                "language",
+                "German",
+                "Russian"
+            ],
+            "student_wish": [
+                1003,
+                1019,
+                1016
+            ],
+            "tag_count": 7,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10154",
+            "student_no": 10154,
+            "student_schedule": [
+                "Monday_am",
+                "Saturday_pm"
+            ],
+            "student_score": 2.3199999332428,
+            "student_tag": [
+                "dancing",
+                "hiking",
+                "chatting",
+                "tennis",
+                "studying"
+            ],
+            "student_wish": [
+                1016,
+                1006,
+                1013
+            ],
+            "tag_count": 5,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10155",
+            "student_no": 10155,
+            "student_schedule": [
+                "Friday_am",
+                "Thursday_am"
+            ],
+            "student_score": 3.11999988555908,
+            "student_tag": [
+                "drama",
+                "swimming",
+                "jazz",
+                "basketball",
+                "speech",
+                "Japanese",
+                "Spanish",
+                "WOW",
+                "Monument-Valley",
+                "Kagamine-Rin"
+            ],
+            "student_wish": [
+                1003,
+                1008,
+                1011
+            ],
+            "tag_count": 10,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10156",
+            "student_no": 10156,
+            "student_schedule": [
+                "Thursday_am",
+                "Monday_am",
+                "Sunday_am",
+                "Sunday_pm"
+            ],
+            "student_score": 3.75,
+            "student_tag": [
+                "drama",
+                "runing",
+                "chess"
+            ],
+            "student_wish": [
+                1011
+            ],
+            "tag_count": 3,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10157",
+            "student_no": 10157,
+            "student_schedule": [
+                "Sunday_pm",
+                "Friday_am"
+            ],
+            "student_score": 3.46000003814697,
+            "student_tag": [
+                "dancing",
+                "trditional_opera",
+                "reading",
+                "bassball",
+                "discuss",
+                "German"
+            ],
+            "student_wish": [
+                1015
+            ],
+            "tag_count": 6,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10158",
+            "student_no": 10158,
+            "student_schedule": [
+                "Sunday_am",
+                "Monday_pm",
+                "Friday_pm",
+                "Wednesday_am",
+                "Tuesday_am",
+                "Saturday_am",
+                "Saturday_pm"
+            ],
+            "student_score": 4.21999979019165,
+            "student_tag": [
+                "movie",
+                "hiking"
+            ],
+            "student_wish": [
+                1009,
+                1014,
+                1019,
+                1010
+            ],
+            "tag_count": 2,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10159",
+            "student_no": 10159,
+            "student_schedule": [
+                "Wednesday_am"
+            ],
+            "student_score": 2.29999995231628,
+            "student_tag": [
+                "movie",
+                "runing",
+                "chatting",
+                "pingpong"
+            ],
+            "student_wish": [
+                1017,
+                1011,
+                1013
+            ],
+            "tag_count": 4,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10160",
+            "student_no": 10160,
+            "student_schedule": [
+                "Friday_pm",
+                "Thursday_am",
+                "Sunday_am",
+                "Wednesday_am",
+                "Tuesday_pm",
+                "Wednesday_pm"
+            ],
+            "student_score": 2.26999998092651,
+            "student_tag": [
+                "music",
+                "swimming",
+                "chatting",
+                "bassball",
+                "discuss",
+                "Japanese",
+                "Italian",
+                "DOTA",
+                "LIMBO"
+            ],
+            "student_wish": [
+                1012,
+                1016,
+                1007,
+                1005
+            ],
+            "tag_count": 9,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10161",
+            "student_no": 10161,
+            "student_schedule": [
+                "Friday_pm",
+                "Friday_am",
+                "Monday_pm",
+                "Monday_am",
+                "Wednesday_pm",
+                "Thursday_pm",
+                "Wednesday_am"
+            ],
+            "student_score": 3.5,
+            "student_tag": [
+                "music",
+                "swimming",
+                "jazz",
+                "tennis",
+                "language",
+                "Chinese",
+                "French",
+                "LOL"
+            ],
+            "student_wish": [
+                1003
+            ],
+            "tag_count": 8,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10162",
+            "student_no": 10162,
+            "student_schedule": [
+                "Sunday_pm"
+            ],
+            "student_score": 2.22000002861023,
+            "student_tag": [
+                "music",
+                "swimming",
+                "chess",
+                "pingpong",
+                "discuss"
+            ],
+            "student_wish": [
+                1007,
+                1012,
+                1008,
+                1017,
+                1003
+            ],
+            "tag_count": 5,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10163",
+            "student_no": 10163,
+            "student_schedule": [
+                "Thursday_am",
+                "Wednesday_pm",
+                "Sunday_am",
+                "Wednesday_am",
+                "Friday_pm",
+                "Saturday_pm",
+                "Tuesday_pm",
+                "Monday_pm",
+                "Sunday_pm"
+            ],
+            "student_score": 4.07000017166138,
+            "student_tag": [
+                "sport",
+                "swimming",
+                "chess"
+            ],
+            "student_wish": [
+                1001,
+                1015,
+                1020
+            ],
+            "tag_count": 3,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10164",
+            "student_no": 10164,
+            "student_schedule": [
+                "Tuesday_pm",
+                "Thursday_pm",
+                "Monday_am"
+            ],
+            "student_score": 2.64000010490417,
+            "student_tag": [
+                "dancing",
+                "swimming",
+                "jazz",
+                "pingpong",
+                "debating",
+                "Kerean",
+                "French",
+                "LOL"
+            ],
+            "student_wish": [
+                1002,
+                1020,
+                1008,
+                1012
+            ],
+            "tag_count": 8,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10165",
+            "student_no": 10165,
+            "student_schedule": [
+                "Tuesday_pm",
+                "Wednesday_am",
+                "Monday_am",
+                "Sunday_pm",
+                "Wednesday_pm",
+                "Saturday_am",
+                "Saturday_pm",
+                "Monday_pm"
+            ],
+            "student_score": 2.47000002861023,
+            "student_tag": [
+                "sport",
+                "runing",
+                "jazz",
+                "tennis"
+            ],
+            "student_wish": [
+                1015
+            ],
+            "tag_count": 4,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10166",
+            "student_no": 10166,
+            "student_schedule": [
+                "Thursday_am",
+                "Saturday_pm",
+                "Thursday_pm",
+                "Wednesday_am"
+            ],
+            "student_score": 2.59999990463257,
+            "student_tag": [
+                "movie",
+                "runing",
+                "chess",
+                "football"
+            ],
+            "student_wish": [
+                1017,
+                1006,
+                1016
+            ],
+            "tag_count": 4,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10167",
+            "student_no": 10167,
+            "student_schedule": [
+                "Thursday_pm",
+                "Monday_am",
+                "Thursday_am",
+                "Sunday_pm",
+                "Friday_pm"
+            ],
+            "student_score": 4.1100001335144,
+            "student_tag": [
+                "sport",
+                "hiking",
+                "hip-hop",
+                "tennis",
+                "speech",
+                "English",
+                "Spanish",
+                "Hearthstone",
+                "Back-to-bed"
+            ],
+            "student_wish": [
+                1003,
+                1012,
+                1009,
+                1016
+            ],
+            "tag_count": 9,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10168",
+            "student_no": 10168,
+            "student_schedule": [
+                "Saturday_am",
+                "Monday_pm",
+                "Wednesday_pm",
+                "Wednesday_am",
+                "Sunday_am",
+                "Thursday_am",
+                "Thursday_pm",
+                "Monday_am"
+            ],
+            "student_score": 2.01999998092651,
+            "student_tag": [
+                "drama",
+                "trditional_opera",
+                "hip-hop"
+            ],
+            "student_wish": [
+                1005,
+                1013,
+                1006,
+                1001
+            ],
+            "tag_count": 3,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10169",
+            "student_no": 10169,
+            "student_schedule": [
+                "Thursday_pm",
+                "Saturday_am",
+                "Sunday_am",
+                "Monday_pm",
+                "Friday_am",
+                "Tuesday_am",
+                "Thursday_am"
+            ],
+            "student_score": 3.48000001907349,
+            "student_tag": [
+                "movie",
+                "swimming",
+                "reading"
+            ],
+            "student_wish": [
+                1005,
+                1013,
+                1015,
+                1008,
+                1014
+            ],
+            "tag_count": 3,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10170",
+            "student_no": 10170,
+            "student_schedule": [
+                "Saturday_pm",
+                "Wednesday_am"
+            ],
+            "student_score": 2.09999990463257,
+            "student_tag": [
+                "drama",
+                "trditional_opera",
+                "reading",
+                "basketball",
+                "discuss"
+            ],
+            "student_wish": [
+                1019,
+                1004,
+                1020
+            ],
+            "tag_count": 5,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10171",
+            "student_no": 10171,
+            "student_schedule": [
+                "Thursday_am",
+                "Wednesday_am",
+                "Saturday_am",
+                "Friday_am",
+                "Tuesday_am",
+                "Tuesday_pm",
+                "Wednesday_pm",
+                "Friday_pm"
+            ],
+            "student_score": 4.1100001335144,
+            "student_tag": [
+                "music",
+                "runing",
+                "hip-hop",
+                "tennis",
+                "speech",
+                "English"
+            ],
+            "student_wish": [
+                1012,
+                1016
+            ],
+            "tag_count": 6,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10172",
+            "student_no": 10172,
+            "student_schedule": [
+                "Friday_pm",
+                "Sunday_am",
+                "Saturday_pm",
+                "Tuesday_pm",
+                "Wednesday_pm",
+                "Thursday_am",
+                "Wednesday_am",
+                "Sunday_pm"
+            ],
+            "student_score": 2.02999997138977,
+            "student_tag": [
+                "dancing",
+                "swimming",
+                "jazz",
+                "basketball",
+                "speech",
+                "Chinese",
+                "Russian",
+                "Hearthstone"
+            ],
+            "student_wish": [
+                1005,
+                1015,
+                1017,
+                1020,
+                1013
+            ],
+            "tag_count": 8,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10173",
+            "student_no": 10173,
+            "student_schedule": [
+                "Sunday_pm",
+                "Saturday_am",
+                "Friday_am",
+                "Saturday_pm",
+                "Tuesday_am",
+                "Tuesday_pm",
+                "Monday_pm"
+            ],
+            "student_score": 4.48000001907349,
+            "student_tag": [
+                "sport",
+                "hiking",
+                "reading",
+                "football",
+                "debating"
+            ],
+            "student_wish": [
+                1004,
+                1010,
+                1003,
+                1011,
+                1012
+            ],
+            "tag_count": 5,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10174",
+            "student_no": 10174,
+            "student_schedule": [
+                "Saturday_am",
+                "Thursday_am",
+                "Friday_am",
+                "Tuesday_am"
+            ],
+            "student_score": 4.55000019073486,
+            "student_tag": [
+                "sport",
+                "swimming",
+                "chess",
+                "pingpong",
+                "language",
+                "Japanese",
+                "French",
+                "LOL"
+            ],
+            "student_wish": [
+                1003,
+                1009,
+                1017,
+                1020,
+                1005
+            ],
+            "tag_count": 8,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10175",
+            "student_no": 10175,
+            "student_schedule": [
+                "Saturday_pm",
+                "Thursday_am",
+                "Wednesday_am",
+                "Tuesday_pm",
+                "Friday_am",
+                "Tuesday_am",
+                "Thursday_pm",
+                "Monday_am"
+            ],
+            "student_score": 4.40000009536743,
+            "student_tag": [
+                "dancing",
+                "hiking",
+                "hip-hop",
+                "football",
+                "speech",
+                "Kerean"
+            ],
+            "student_wish": [
+                1011,
+                1020,
+                1005,
+                1010,
+                1016
+            ],
+            "tag_count": 6,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10176",
+            "student_no": 10176,
+            "student_schedule": [
+                "Sunday_am",
+                "Thursday_pm"
+            ],
+            "student_score": 2.07999992370605,
+            "student_tag": [
+                "music",
+                "trditional_opera",
+                "chess"
+            ],
+            "student_wish": [
+                1008,
+                1010,
+                1012,
+                1002,
+                1011
+            ],
+            "tag_count": 3,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10177",
+            "student_no": 10177,
+            "student_schedule": [
+                "Tuesday_am",
+                "Thursday_pm",
+                "Saturday_pm",
+                "Thursday_am",
+                "Friday_pm",
+                "Sunday_am",
+                "Tuesday_pm"
+            ],
+            "student_score": 4.01000022888184,
+            "student_tag": [
+                "movie",
+                "swimming",
+                "chess",
+                "basketball",
+                "discuss",
+                "Japanese",
+                "Spanish"
+            ],
+            "student_wish": [
+                1013,
+                1007,
+                1010
+            ],
+            "tag_count": 7,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10178",
+            "student_no": 10178,
+            "student_schedule": [
+                "Thursday_am",
+                "Saturday_am",
+                "Sunday_pm",
+                "Friday_am",
+                "Friday_pm",
+                "Wednesday_pm",
+                "Wednesday_am",
+                "Monday_pm",
+                "Saturday_pm"
+            ],
+            "student_score": 4.05000019073486,
+            "student_tag": [
+                "dancing",
+                "trditional_opera"
+            ],
+            "student_wish": [
+                1005,
+                1002,
+                1006
+            ],
+            "tag_count": 2,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 1,
+            "student_cur": -1,
+            "student_name": "student_10179",
+            "student_no": 10179,
+            "student_schedule": [
+                "Tuesday_am"
+            ],
+            "student_score": 2.00999999046326,
+            "student_tag": [
+                "drama",
+                "trditional_opera",
+                "reading",
+                "pingpong",
+                "debating"
+            ],
+            "student_wish": [
+                1011,
+                1006,
+                1018,
+                1015,
+                1008
+            ],
+            "tag_count": 5,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10180",
+            "student_no": 10180,
+            "student_schedule": [
+                "Wednesday_am",
+                "Sunday_pm",
+                "Thursday_am"
+            ],
+            "student_score": 4.05000019073486,
+            "student_tag": [
+                "music",
+                "traveling",
+                "chess",
+                "football",
+                "speech"
+            ],
+            "student_wish": [
+                1015,
+                1004,
+                1005,
+                1002,
+                1020
+            ],
+            "tag_count": 5,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 6,
+            "student_cur": -1,
+            "student_name": "student_10181",
+            "student_no": 10181,
+            "student_schedule": [
+                "Monday_pm",
+                "Wednesday_am",
+                "Monday_am",
+                "Friday_pm",
+                "Saturday_pm",
+                "Tuesday_pm"
+            ],
+            "student_score": 4.23999977111816,
+            "student_tag": [
+                "dancing",
+                "swimming",
+                "reading",
+                "football"
+            ],
+            "student_wish": [
+                1002
+            ],
+            "tag_count": 4,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10182",
+            "student_no": 10182,
+            "student_schedule": [
+                "Sunday_am",
+                "Thursday_am",
+                "Friday_am",
+                "Thursday_pm",
+                "Wednesday_am"
+            ],
+            "student_score": 4.26000022888184,
+            "student_tag": [
+                "dancing",
+                "trditional_opera"
+            ],
+            "student_wish": [
+                1015,
+                1005
+            ],
+            "tag_count": 2,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10183",
+            "student_no": 10183,
+            "student_schedule": [
+                "Monday_am",
+                "Wednesday_am",
+                "Tuesday_pm",
+                "Friday_pm"
+            ],
+            "student_score": 3.23000001907349,
+            "student_tag": [
+                "movie",
+                "runing",
+                "chess",
+                "tennis",
+                "debating"
+            ],
+            "student_wish": [
+                1005,
+                1018,
+                1012,
+                1017,
+                1002
+            ],
+            "tag_count": 5,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10184",
+            "student_no": 10184,
+            "student_schedule": [
+                "Saturday_pm",
+                "Friday_am",
+                "Wednesday_am",
+                "Thursday_am",
+                "Thursday_pm",
+                "Wednesday_pm",
+                "Sunday_pm"
+            ],
+            "student_score": 2.74000000953674,
+            "student_tag": [
+                "music",
+                "swimming",
+                "hip-hop",
+                "pingpong",
+                "discuss",
+                "English",
+                "Portuguese"
+            ],
+            "student_wish": [
+                1012,
+                1009
+            ],
+            "tag_count": 7,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10185",
+            "student_no": 10185,
+            "student_schedule": [
+                "Monday_pm",
+                "Sunday_pm"
+            ],
+            "student_score": 2.02999997138977,
+            "student_tag": [
+                "sport",
+                "hiking",
+                "chatting",
+                "football",
+                "debating",
+                "Kerean",
+                "Italian"
+            ],
+            "student_wish": [
+                1019
+            ],
+            "tag_count": 7,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10186",
+            "student_no": 10186,
+            "student_schedule": [
+                "Thursday_am",
+                "Thursday_pm",
+                "Saturday_am",
+                "Sunday_am",
+                "Monday_pm",
+                "Sunday_pm",
+                "Friday_am"
+            ],
+            "student_score": 2.99000000953674,
+            "student_tag": [
+                "drama",
+                "swimming",
+                "reading",
+                "pingpong"
+            ],
+            "student_wish": [
+                1001,
+                1013,
+                1011,
+                1007,
+                1006
+            ],
+            "tag_count": 4,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10187",
+            "student_no": 10187,
+            "student_schedule": [
+                "Tuesday_pm",
+                "Sunday_pm",
+                "Sunday_am",
+                "Wednesday_pm",
+                "Monday_am",
+                "Thursday_am",
+                "Friday_pm",
+                "Saturday_am"
+            ],
+            "student_score": 4.5,
+            "student_tag": [
+                "music"
+            ],
+            "student_wish": [
+                1019,
+                1008,
+                1011,
+                1016,
+                1010
+            ],
+            "tag_count": 1,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10188",
+            "student_no": 10188,
+            "student_schedule": [
+                "Thursday_pm",
+                "Saturday_pm"
+            ],
+            "student_score": 2.99000000953674,
+            "student_tag": [
+                "music",
+                "runing",
+                "chess",
+                "bassball",
+                "discuss",
+                "Kerean"
+            ],
+            "student_wish": [
+                1001,
+                1012
+            ],
+            "tag_count": 6,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10189",
+            "student_no": 10189,
+            "student_schedule": [
+                "Thursday_am",
+                "Friday_am",
+                "Sunday_am",
+                "Saturday_pm",
+                "Wednesday_am",
+                "Monday_am",
+                "Tuesday_pm",
+                "Sunday_pm",
+                "Saturday_am"
+            ],
+            "student_score": 4.57000017166138,
+            "student_tag": [
+                "music",
+                "trditional_opera",
+                "chess",
+                "pingpong",
+                "speech",
+                "English",
+                "Italian",
+                "LOL",
+                "The-room"
+            ],
+            "student_wish": [
+                1015
+            ],
+            "tag_count": 9,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10190",
+            "student_no": 10190,
+            "student_schedule": [
+                "Sunday_am",
+                "Wednesday_pm",
+                "Friday_pm",
+                "Tuesday_pm",
+                "Saturday_am",
+                "Thursday_pm",
+                "Friday_am"
+            ],
+            "student_score": 4.67000007629395,
+            "student_tag": [
+                "drama",
+                "trditional_opera",
+                "jazz",
+                "tennis",
+                "speech",
+                "Japanese",
+                "Spanish",
+                "Hearthstone",
+                "LIMBO"
+            ],
+            "student_wish": [
+                1003,
+                1001
+            ],
+            "tag_count": 9,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10191",
+            "student_no": 10191,
+            "student_schedule": [
+                "Saturday_am",
+                "Monday_pm"
+            ],
+            "student_score": 3.45000004768372,
+            "student_tag": [
+                "movie",
+                "hiking",
+                "jazz",
+                "tennis"
+            ],
+            "student_wish": [
+                1003
+            ],
+            "tag_count": 4,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 4,
+            "student_cur": -1,
+            "student_name": "student_10192",
+            "student_no": 10192,
+            "student_schedule": [
+                "Sunday_am",
+                "Thursday_pm",
+                "Saturday_pm",
+                "Sunday_pm"
+            ],
+            "student_score": 4.26000022888184,
+            "student_tag": [
+                "drama",
+                "trditional_opera",
+                "hip-hop",
+                "bassball",
+                "language",
+                "Japanese"
+            ],
+            "student_wish": [
+                1020,
+                1013,
+                1003
+            ],
+            "tag_count": 6,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 3,
+            "student_cur": -1,
+            "student_name": "student_10193",
+            "student_no": 10193,
+            "student_schedule": [
+                "Sunday_am",
+                "Saturday_pm",
+                "Friday_pm"
+            ],
+            "student_score": 4.65999984741211,
+            "student_tag": [
+                "dancing",
+                "trditional_opera",
+                "hip-hop",
+                "pingpong",
+                "speech"
+            ],
+            "student_wish": [
+                1005,
+                1019,
+                1013
+            ],
+            "tag_count": 5,
+            "wish_count": 3
+        },
+        {
+            "schedule_count": 7,
+            "student_cur": -1,
+            "student_name": "student_10194",
+            "student_no": 10194,
+            "student_schedule": [
+                "Saturday_am",
+                "Wednesday_am",
+                "Monday_am",
+                "Sunday_am",
+                "Friday_am",
+                "Saturday_pm",
+                "Sunday_pm"
+            ],
+            "student_score": 4.09999990463257,
+            "student_tag": [
+                "drama",
+                "hiking"
+            ],
+            "student_wish": [
+                1005,
+                1009,
+                1007,
+                1010,
+                1003
+            ],
+            "tag_count": 2,
+            "wish_count": 5
+        },
+        {
+            "schedule_count": 2,
+            "student_cur": -1,
+            "student_name": "student_10195",
+            "student_no": 10195,
+            "student_schedule": [
+                "Tuesday_am",
+                "Wednesday_pm"
+            ],
+            "student_score": 3.48000001907349,
+            "student_tag": [
+                "dancing",
+                "hiking",
+                "chess"
+            ],
+            "student_wish": [
+                1001
+            ],
+            "tag_count": 3,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10196",
+            "student_no": 10196,
+            "student_schedule": [
+                "Wednesday_pm",
+                "Thursday_pm",
+                "Saturday_pm",
+                "Saturday_am",
+                "Sunday_am",
+                "Friday_am",
+                "Thursday_am",
+                "Tuesday_am",
+                "Friday_pm"
+            ],
+            "student_score": 3.95000004768372,
+            "student_tag": [
+                "music",
+                "traveling",
+                "chess",
+                "pingpong"
+            ],
+            "student_wish": [
+                1009,
+                1019,
+                1001,
+                1002
+            ],
+            "tag_count": 4,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10197",
+            "student_no": 10197,
+            "student_schedule": [
+                "Tuesday_am",
+                "Wednesday_pm",
+                "Friday_am",
+                "Saturday_am",
+                "Monday_am"
+            ],
+            "student_score": 2.51999998092651,
+            "student_tag": [
+                "dancing",
+                "trditional_opera",
+                "jazz",
+                "bassball",
+                "studying",
+                "Japanese",
+                "French",
+                "LOL",
+                "Monument-Valley",
+                "KAITO"
+            ],
+            "student_wish": [
+                1020,
+                1014
+            ],
+            "tag_count": 10,
+            "wish_count": 2
+        },
+        {
+            "schedule_count": 8,
+            "student_cur": -1,
+            "student_name": "student_10198",
+            "student_no": 10198,
+            "student_schedule": [
+                "Thursday_am",
+                "Monday_am",
+                "Thursday_pm",
+                "Saturday_am",
+                "Wednesday_pm",
+                "Sunday_pm",
+                "Tuesday_pm",
+                "Monday_pm"
+            ],
+            "student_score": 2.02999997138977,
+            "student_tag": [
+                "music",
+                "swimming",
+                "chatting",
+                "football",
+                "discuss",
+                "Japanese",
+                "Russian"
+            ],
+            "student_wish": [
+                1008,
+                1011,
+                1018,
+                1020
+            ],
+            "tag_count": 7,
+            "wish_count": 4
+        },
+        {
+            "schedule_count": 9,
+            "student_cur": -1,
+            "student_name": "student_10199",
+            "student_no": 10199,
+            "student_schedule": [
+                "Saturday_pm",
+                "Wednesday_pm",
+                "Friday_pm",
+                "Wednesday_am",
+                "Monday_am",
+                "Tuesday_am",
+                "Saturday_am",
+                "Monday_pm",
+                "Friday_am"
+            ],
+            "student_score": 3.55999994277954,
+            "student_tag": [
+                "movie",
+                "hiking",
+                "reading",
+                "basketball",
+                "studying",
+                "Kerean",
+                "Portuguese"
+            ],
+            "student_wish": [
+                1004
+            ],
+            "tag_count": 7,
+            "wish_count": 1
+        },
+        {
+            "schedule_count": 5,
+            "student_cur": -1,
+            "student_name": "student_10200",
+            "student_no": 10200,
+            "student_schedule": [
+                "Thursday_pm",
+                "Sunday_am",
+                "Saturday_pm",
+                "Saturday_am",
+                "Monday_am"
+            ],
+            "student_score": 4.51999998092651,
+            "student_tag": [
+                "sport",
+                "swimming",
+                "hip-hop",
+                "pingpong",
+                "speech",
+                "German",
+                "Italian"
+            ],
+            "student_wish": [
+                1016,
+                1007,
+                1020
+            ],
+            "tag_count": 7,
+            "wish_count": 3
+        }
+    ]
+}

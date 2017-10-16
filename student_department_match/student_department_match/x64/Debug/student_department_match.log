@@ -1,0 +1,10 @@
+﻿  write.cpp
+  read.cpp
+e:\0_college\软工实践\第六次作业\代码\student_department_match\student_department_match\read.cpp(78): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\0_college\软工实践\第六次作业\代码\student_department_match\student_department_match\read.cpp(88): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  distributeSystem.cpp
+  distribute.cpp
+e:\0_college\软工实践\第六次作业\代码\student_department_match\student_department_match\distribute.cpp(26): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  student_department_match.vcxproj -> E:\0_College\软工实践\第六次作业\代码\student_department_match\x64\Debug\student_department_match.exe
+  student_department_match.vcxproj -> E:\0_College\软工实践\第六次作业\代码\student_department_match\x64\Debug\student_department_match.pdb (Partial PDB)

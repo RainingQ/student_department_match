@@ -1,0 +1,6 @@
+﻿  jsonGenerator.cpp
+e:\0_college\软工实践\第六次作业\代码\jsongenerator\jsongenerator\jsongenerator.cpp(82): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\0_college\软工实践\第六次作业\代码\jsongenerator\jsongenerator\jsongenerator.cpp(139): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\0_college\软工实践\第六次作业\代码\jsongenerator\jsongenerator\jsongenerator.cpp(206): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  JsonGenerator.vcxproj -> E:\0_College\软工实践\第六次作业\代码\JsonGenerator\x64\Debug\JsonGenerator.exe
+  JsonGenerator.vcxproj -> E:\0_College\软工实践\第六次作业\代码\JsonGenerator\x64\Debug\JsonGenerator.pdb (Partial PDB)

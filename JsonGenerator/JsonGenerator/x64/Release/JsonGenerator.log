@@ -1,0 +1,8 @@
+﻿  jsonGenerator.cpp
+jsonGenerator.cpp(81): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+jsonGenerator.cpp(140): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+jsonGenerator.cpp(209): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  All 1078 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  JsonGenerator.vcxproj -> E:\0_College\软工实践\第六次作业\代码\JsonGenerator\x64\Release\JsonGenerator.exe

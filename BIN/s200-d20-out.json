@@ -1,0 +1,1131 @@
+{
+    "matched_department_view": [
+        {
+            "chosen_num": 6,
+            "department_member_limit": 13,
+            "department_no": 1001,
+            "student_no": [
+                10051,
+                10125,
+                10195,
+                10043,
+                10068,
+                10107
+            ]
+        },
+        {
+            "chosen_num": 2,
+            "department_member_limit": 15,
+            "department_no": 1002,
+            "student_no": [
+                10082,
+                10005
+            ]
+        },
+        {
+            "chosen_num": 7,
+            "department_member_limit": 12,
+            "department_no": 1003,
+            "student_no": [
+                10044,
+                10096,
+                10107,
+                10155,
+                10191,
+                10006,
+                10066
+            ]
+        },
+        {
+            "chosen_num": 3,
+            "department_member_limit": 12,
+            "department_no": 1004,
+            "student_no": [
+                10046,
+                10044,
+                10180
+            ]
+        },
+        {
+            "chosen_num": 2,
+            "department_member_limit": 2,
+            "department_no": 1005,
+            "student_no": [
+                10146,
+                10183
+            ]
+        },
+        {
+            "chosen_num": 4,
+            "department_member_limit": 15,
+            "department_no": 1006,
+            "student_no": [
+                10071,
+                10047,
+                10145,
+                10152
+            ]
+        },
+        {
+            "chosen_num": 4,
+            "department_member_limit": 4,
+            "department_no": 1007,
+            "student_no": [
+                10071,
+                10086,
+                10111,
+                10200
+            ]
+        },
+        {
+            "chosen_num": 4,
+            "department_member_limit": 8,
+            "department_no": 1008,
+            "student_no": [
+                10021,
+                10125,
+                10068,
+                10107
+            ]
+        },
+        {
+            "chosen_num": 3,
+            "department_member_limit": 14,
+            "department_no": 1009,
+            "student_no": [
+                10013,
+                10120,
+                10034
+            ]
+        },
+        {
+            "chosen_num": 2,
+            "department_member_limit": 14,
+            "department_no": 1010,
+            "student_no": [
+                10002,
+                10051
+            ]
+        },
+        {
+            "chosen_num": 6,
+            "department_member_limit": 12,
+            "department_no": 1012,
+            "student_no": [
+                10033,
+                10043,
+                10142,
+                10162,
+                10101,
+                10173
+            ]
+        },
+        {
+            "chosen_num": 2,
+            "department_member_limit": 12,
+            "department_no": 1013,
+            "student_no": [
+                10065,
+                10142
+            ]
+        },
+        {
+            "chosen_num": 7,
+            "department_member_limit": 12,
+            "department_no": 1014,
+            "student_no": [
+                10007,
+                10035,
+                10061,
+                10086,
+                10088,
+                10064,
+                10094
+            ]
+        },
+        {
+            "chosen_num": 11,
+            "department_member_limit": 14,
+            "department_no": 1015,
+            "student_no": [
+                10099,
+                10157,
+                10180,
+                10182,
+                10134,
+                10094,
+                10129,
+                10002,
+                10044,
+                10128,
+                10110
+            ]
+        },
+        {
+            "chosen_num": 1,
+            "department_member_limit": 1,
+            "department_no": 1016,
+            "student_no": [
+                10102
+            ]
+        },
+        {
+            "chosen_num": 2,
+            "department_member_limit": 2,
+            "department_no": 1017,
+            "student_no": [
+                10055,
+                10127
+            ]
+        },
+        {
+            "chosen_num": 2,
+            "department_member_limit": 14,
+            "department_no": 1018,
+            "student_no": [
+                10110,
+                10019
+            ]
+        },
+        {
+            "chosen_num": 6,
+            "department_member_limit": 13,
+            "department_no": 1019,
+            "student_no": [
+                10037,
+                10057,
+                10071,
+                10193,
+                10002,
+                10107
+            ]
+        },
+        {
+            "chosen_num": 2,
+            "department_member_limit": 8,
+            "department_no": 1020,
+            "student_no": [
+                10110,
+                10170
+            ]
+        }
+    ],
+    "matched_student_view": [
+        {
+            "department_no": [
+                -1,
+                1010,
+                1019,
+                1015
+            ],
+            "student_no": 10002,
+            "student_score": 4.94999980926514
+        },
+        {
+            "department_no": [
+                1002,
+                0
+            ],
+            "student_no": 10005,
+            "student_score": 2.34999990463257
+        },
+        {
+            "department_no": [
+                1003
+            ],
+            "student_no": 10006,
+            "student_score": 3.0699999332428
+        },
+        {
+            "department_no": [
+                1014
+            ],
+            "student_no": 10007,
+            "student_score": 2.41000008583069
+        },
+        {
+            "department_no": [
+                -1
+            ],
+            "student_no": 10010,
+            "student_score": 3.20000004768372
+        },
+        {
+            "department_no": [
+                1009
+            ],
+            "student_no": 10013,
+            "student_score": 2.03999996185303
+        },
+        {
+            "department_no": [
+                1018
+            ],
+            "student_no": 10019,
+            "student_score": 4.46999979019165
+        },
+        {
+            "department_no": [
+                1008,
+                -1
+            ],
+            "student_no": 10021,
+            "student_score": 4.23999977111816
+        },
+        {
+            "department_no": [
+                1012
+            ],
+            "student_no": 10033,
+            "student_score": 2.76999998092651
+        },
+        {
+            "department_no": [
+                1009
+            ],
+            "student_no": 10034,
+            "student_score": 4.46999979019165
+        },
+        {
+            "department_no": [
+                1014
+            ],
+            "student_no": 10035,
+            "student_score": 3.25999999046326
+        },
+        {
+            "department_no": [
+                1019
+            ],
+            "student_no": 10037,
+            "student_score": 2.96000003814697
+        },
+        {
+            "department_no": [
+                1012,
+                1001
+            ],
+            "student_no": 10043,
+            "student_score": 4.73999977111816
+        },
+        {
+            "department_no": [
+                1003,
+                1004,
+                1015
+            ],
+            "student_no": 10044,
+            "student_score": 2.64000010490417
+        },
+        {
+            "department_no": [
+                1004
+            ],
+            "student_no": 10046,
+            "student_score": 4.05999994277954
+        },
+        {
+            "department_no": [
+                1006
+            ],
+            "student_no": 10047,
+            "student_score": 3.89000010490417
+        },
+        {
+            "department_no": [
+                1001,
+                1010
+            ],
+            "student_no": 10051,
+            "student_score": 4.05999994277954
+        },
+        {
+            "department_no": [
+                0
+            ],
+            "student_no": 10055,
+            "student_score": 2.27999997138977
+        },
+        {
+            "department_no": [
+                1019
+            ],
+            "student_no": 10057,
+            "student_score": 3.75
+        },
+        {
+            "department_no": [
+                1014,
+                0
+            ],
+            "student_no": 10061,
+            "student_score": 4.76999998092651
+        },
+        {
+            "department_no": [
+                1014
+            ],
+            "student_no": 10064,
+            "student_score": 4.48000001907349
+        },
+        {
+            "department_no": [
+                1013
+            ],
+            "student_no": 10065,
+            "student_score": 4.36999988555908
+        },
+        {
+            "department_no": [
+                1003
+            ],
+            "student_no": 10066,
+            "student_score": 2.83999991416931
+        },
+        {
+            "department_no": [
+                1001,
+                1008
+            ],
+            "student_no": 10068,
+            "student_score": 4.84000015258789
+        },
+        {
+            "department_no": [
+                1006,
+                1019,
+                0
+            ],
+            "student_no": 10071,
+            "student_score": 2.99000000953674
+        },
+        {
+            "department_no": [
+                0
+            ],
+            "student_no": 10073,
+            "student_score": 4.46000003814697
+        },
+        {
+            "department_no": [
+                -1
+            ],
+            "student_no": 10077,
+            "student_score": 2.00999999046326
+        },
+        {
+            "department_no": [
+                1002
+            ],
+            "student_no": 10082,
+            "student_score": 4.09999990463257
+        },
+        {
+            "department_no": [
+                1014,
+                1007
+            ],
+            "student_no": 10086,
+            "student_score": 2.53999996185303
+        },
+        {
+            "department_no": [
+                1014
+            ],
+            "student_no": 10088,
+            "student_score": 2.36999988555908
+        },
+        {
+            "department_no": [
+                0
+            ],
+            "student_no": 10092,
+            "student_score": 3.24000000953674
+        },
+        {
+            "department_no": [
+                1015,
+                1014
+            ],
+            "student_no": 10094,
+            "student_score": 4.21000003814697
+        },
+        {
+            "department_no": [
+                1003
+            ],
+            "student_no": 10096,
+            "student_score": 2.36999988555908
+        },
+        {
+            "department_no": [
+                1015,
+                -1
+            ],
+            "student_no": 10099,
+            "student_score": 2.82999992370605
+        },
+        {
+            "department_no": [
+                1012
+            ],
+            "student_no": 10101,
+            "student_score": 2.82999992370605
+        },
+        {
+            "department_no": [
+                0
+            ],
+            "student_no": 10102,
+            "student_score": 4.57000017166138
+        },
+        {
+            "department_no": [
+                -1
+            ],
+            "student_no": 10104,
+            "student_score": 2.72000002861023
+        },
+        {
+            "department_no": [
+                -1
+            ],
+            "student_no": 10105,
+            "student_score": 2.90000009536743
+        },
+        {
+            "department_no": [
+                1003,
+                1001,
+                1019,
+                1008
+            ],
+            "student_no": 10107,
+            "student_score": 4.46000003814697
+        },
+        {
+            "department_no": [
+                1018,
+                1020,
+                1015
+            ],
+            "student_no": 10110,
+            "student_score": 2.75999999046326
+        },
+        {
+            "department_no": [
+                -1,
+                1007
+            ],
+            "student_no": 10111,
+            "student_score": 3.13000011444092
+        },
+        {
+            "department_no": [
+                1009
+            ],
+            "student_no": 10120,
+            "student_score": 4.15999984741211
+        },
+        {
+            "department_no": [
+                1001,
+                1008
+            ],
+            "student_no": 10125,
+            "student_score": 4.78999996185303
+        },
+        {
+            "department_no": [
+                0
+            ],
+            "student_no": 10127,
+            "student_score": 3.82999992370605
+        },
+        {
+            "department_no": [
+                1015
+            ],
+            "student_no": 10128,
+            "student_score": 4.26999998092651
+        },
+        {
+            "department_no": [
+                1015
+            ],
+            "student_no": 10129,
+            "student_score": 4.25
+        },
+        {
+            "department_no": [
+                1015
+            ],
+            "student_no": 10134,
+            "student_score": 4.53000020980835
+        },
+        {
+            "department_no": [
+                -1
+            ],
+            "student_no": 10137,
+            "student_score": 4.48000001907349
+        },
+        {
+            "department_no": [
+                -1
+            ],
+            "student_no": 10139,
+            "student_score": 2.54999995231628
+        },
+        {
+            "department_no": [
+                0
+            ],
+            "student_no": 10141,
+            "student_score": 3.59999990463257
+        },
+        {
+            "department_no": [
+                1012,
+                1013
+            ],
+            "student_no": 10142,
+            "student_score": 3.65000009536743
+        },
+        {
+            "department_no": [
+                0
+            ],
+            "student_no": 10143,
+            "student_score": 2.55999994277954
+        },
+        {
+            "department_no": [
+                1006
+            ],
+            "student_no": 10145,
+            "student_score": 4.23999977111816
+        },
+        {
+            "department_no": [
+                1005
+            ],
+            "student_no": 10146,
+            "student_score": 4.57999992370605
+        },
+        {
+            "department_no": [
+                -1
+            ],
+            "student_no": 10149,
+            "student_score": 3.67000007629395
+        },
+        {
+            "department_no": [
+                1006
+            ],
+            "student_no": 10152,
+            "student_score": 4.05000019073486
+        },
+        {
+            "department_no": [
+                -1
+            ],
+            "student_no": 10154,
+            "student_score": 2.3199999332428
+        },
+        {
+            "department_no": [
+                1003
+            ],
+            "student_no": 10155,
+            "student_score": 3.11999988555908
+        },
+        {
+            "department_no": [
+                1015
+            ],
+            "student_no": 10157,
+            "student_score": 3.46000003814697
+        },
+        {
+            "department_no": [
+                -1
+            ],
+            "student_no": 10159,
+            "student_score": 2.29999995231628
+        },
+        {
+            "department_no": [
+                1012,
+                0
+            ],
+            "student_no": 10162,
+            "student_score": 2.22000002861023
+        },
+        {
+            "department_no": [
+                1020
+            ],
+            "student_no": 10170,
+            "student_score": 2.09999990463257
+        },
+        {
+            "department_no": [
+                0
+            ],
+            "student_no": 10172,
+            "student_score": 2.02999997138977
+        },
+        {
+            "department_no": [
+                1012
+            ],
+            "student_no": 10173,
+            "student_score": 4.48000001907349
+        },
+        {
+            "department_no": [
+                0
+            ],
+            "student_no": 10174,
+            "student_score": 4.55000019073486
+        },
+        {
+            "department_no": [
+                1015,
+                1004
+            ],
+            "student_no": 10180,
+            "student_score": 4.05000019073486
+        },
+        {
+            "department_no": [
+                1015
+            ],
+            "student_no": 10182,
+            "student_score": 4.26000022888184
+        },
+        {
+            "department_no": [
+                1005
+            ],
+            "student_no": 10183,
+            "student_score": 3.23000001907349
+        },
+        {
+            "department_no": [
+                1003
+            ],
+            "student_no": 10191,
+            "student_score": 3.45000004768372
+        },
+        {
+            "department_no": [
+                1019
+            ],
+            "student_no": 10193,
+            "student_score": 4.65999984741211
+        },
+        {
+            "department_no": [
+                1001
+            ],
+            "student_no": 10195,
+            "student_score": 3.48000001907349
+        },
+        {
+            "department_no": [
+                0
+            ],
+            "student_no": 10200,
+            "student_score": 4.51999998092651
+        }
+    ],
+    "standalone_students": [
+        {
+            "student_no": 10001
+        },
+        {
+            "student_no": 10003
+        },
+        {
+            "student_no": 10004
+        },
+        {
+            "student_no": 10008
+        },
+        {
+            "student_no": 10009
+        },
+        {
+            "student_no": 10011
+        },
+        {
+            "student_no": 10012
+        },
+        {
+            "student_no": 10014
+        },
+        {
+            "student_no": 10015
+        },
+        {
+            "student_no": 10016
+        },
+        {
+            "student_no": 10017
+        },
+        {
+            "student_no": 10018
+        },
+        {
+            "student_no": 10020
+        },
+        {
+            "student_no": 10022
+        },
+        {
+            "student_no": 10023
+        },
+        {
+            "student_no": 10024
+        },
+        {
+            "student_no": 10025
+        },
+        {
+            "student_no": 10026
+        },
+        {
+            "student_no": 10027
+        },
+        {
+            "student_no": 10028
+        },
+        {
+            "student_no": 10029
+        },
+        {
+            "student_no": 10030
+        },
+        {
+            "student_no": 10031
+        },
+        {
+            "student_no": 10032
+        },
+        {
+            "student_no": 10036
+        },
+        {
+            "student_no": 10038
+        },
+        {
+            "student_no": 10039
+        },
+        {
+            "student_no": 10040
+        },
+        {
+            "student_no": 10041
+        },
+        {
+            "student_no": 10042
+        },
+        {
+            "student_no": 10045
+        },
+        {
+            "student_no": 10048
+        },
+        {
+            "student_no": 10049
+        },
+        {
+            "student_no": 10050
+        },
+        {
+            "student_no": 10052
+        },
+        {
+            "student_no": 10053
+        },
+        {
+            "student_no": 10054
+        },
+        {
+            "student_no": 10056
+        },
+        {
+            "student_no": 10058
+        },
+        {
+            "student_no": 10059
+        },
+        {
+            "student_no": 10060
+        },
+        {
+            "student_no": 10062
+        },
+        {
+            "student_no": 10063
+        },
+        {
+            "student_no": 10067
+        },
+        {
+            "student_no": 10069
+        },
+        {
+            "student_no": 10070
+        },
+        {
+            "student_no": 10072
+        },
+        {
+            "student_no": 10074
+        },
+        {
+            "student_no": 10075
+        },
+        {
+            "student_no": 10076
+        },
+        {
+            "student_no": 10078
+        },
+        {
+            "student_no": 10079
+        },
+        {
+            "student_no": 10080
+        },
+        {
+            "student_no": 10081
+        },
+        {
+            "student_no": 10083
+        },
+        {
+            "student_no": 10084
+        },
+        {
+            "student_no": 10085
+        },
+        {
+            "student_no": 10087
+        },
+        {
+            "student_no": 10089
+        },
+        {
+            "student_no": 10090
+        },
+        {
+            "student_no": 10091
+        },
+        {
+            "student_no": 10093
+        },
+        {
+            "student_no": 10095
+        },
+        {
+            "student_no": 10097
+        },
+        {
+            "student_no": 10098
+        },
+        {
+            "student_no": 10100
+        },
+        {
+            "student_no": 10103
+        },
+        {
+            "student_no": 10106
+        },
+        {
+            "student_no": 10108
+        },
+        {
+            "student_no": 10109
+        },
+        {
+            "student_no": 10112
+        },
+        {
+            "student_no": 10113
+        },
+        {
+            "student_no": 10114
+        },
+        {
+            "student_no": 10115
+        },
+        {
+            "student_no": 10116
+        },
+        {
+            "student_no": 10117
+        },
+        {
+            "student_no": 10118
+        },
+        {
+            "student_no": 10119
+        },
+        {
+            "student_no": 10121
+        },
+        {
+            "student_no": 10122
+        },
+        {
+            "student_no": 10123
+        },
+        {
+            "student_no": 10124
+        },
+        {
+            "student_no": 10126
+        },
+        {
+            "student_no": 10130
+        },
+        {
+            "student_no": 10131
+        },
+        {
+            "student_no": 10132
+        },
+        {
+            "student_no": 10133
+        },
+        {
+            "student_no": 10135
+        },
+        {
+            "student_no": 10136
+        },
+        {
+            "student_no": 10138
+        },
+        {
+            "student_no": 10140
+        },
+        {
+            "student_no": 10144
+        },
+        {
+            "student_no": 10147
+        },
+        {
+            "student_no": 10148
+        },
+        {
+            "student_no": 10150
+        },
+        {
+            "student_no": 10151
+        },
+        {
+            "student_no": 10153
+        },
+        {
+            "student_no": 10156
+        },
+        {
+            "student_no": 10158
+        },
+        {
+            "student_no": 10160
+        },
+        {
+            "student_no": 10161
+        },
+        {
+            "student_no": 10163
+        },
+        {
+            "student_no": 10164
+        },
+        {
+            "student_no": 10165
+        },
+        {
+            "student_no": 10166
+        },
+        {
+            "student_no": 10167
+        },
+        {
+            "student_no": 10168
+        },
+        {
+            "student_no": 10169
+        },
+        {
+            "student_no": 10171
+        },
+        {
+            "student_no": 10175
+        },
+        {
+            "student_no": 10176
+        },
+        {
+            "student_no": 10177
+        },
+        {
+            "student_no": 10178
+        },
+        {
+            "student_no": 10179
+        },
+        {
+            "student_no": 10181
+        },
+        {
+            "student_no": 10184
+        },
+        {
+            "student_no": 10185
+        },
+        {
+            "student_no": 10186
+        },
+        {
+            "student_no": 10187
+        },
+        {
+            "student_no": 10188
+        },
+        {
+            "student_no": 10189
+        },
+        {
+            "student_no": 10190
+        },
+        {
+            "student_no": 10192
+        },
+        {
+            "student_no": 10194
+        },
+        {
+            "student_no": 10196
+        },
+        {
+            "student_no": 10197
+        },
+        {
+            "student_no": 10198
+        },
+        {
+            "student_no": 10199
+        }
+    ]
+}
